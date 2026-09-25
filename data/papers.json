@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42780629",
+    "title": "Complementary Breath Profiling Using eNose and Gas Chromatography-Mass Spectrometry for Noninvasive Triage of Indeterminate Pulmonary Nodules.",
+    "abstract": "Breath analysis may improve the noninvasive triage of CT-detected pulmonary nodules. We prospectively evaluated two complementary breath platforms, an electronic nose (eNose) and gas chromatography-mass spectrometry (GC-MS), in patients with newly detected nodules. The eNose cohort included 89 participants (55 malignant and 34 benign), and the GC-MS cohort included 75 participants (52 malignant and 23 benign). For each platform, three logistic regression models were assessed: clinical-only, biomarker-only, and combined clinical + biomarker. For eNose, apparent discrimination improved from the clinical-only model (AUC 0.67; misclassification rate [MCR] 40.4%) to the sensor-only model (AUC 0.86; MCR 22.5%), with further improvement in the combined clinical + sensor model (AUC 0.88; MCR 22.5%). Internal validation showed attenuation, with the combined eNose model achieving a leave-one-out cross-validation (LOOCV) AUC of 0.67. For GC-MS, LASSO logistic regression showed strong apparent discrimination for the VOC-only (AUC 0.97; MCR 4%), although internal validation indicated attenuation of performance (bootstrap-corrected AUC 0.64; LOOCV AUC 0.65). The combined clinical + VOC model remained comparably high (AUC 0.96; MCR 8%), outperforming the clinical-only benchmark (AUC 0.73; MCR 32%). These findings support complementary, noninvasive breath-based approaches for pulmonary nodule triage and warrant larger multicenter validation studies.",
+    "journal": "MedComm",
+    "publication_date": "2026 Oct",
+    "authors": "Afridi WA, Hartel G, Zhang X, Pass D, Fielding D et al.",
+    "doi": "10.1002/mco2.71012",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42780629/",
+    "discovered_at": "2026-09-25T02:48:41.853592+00:00",
+    "discovered_at_display": "25 Sep 2026, 08:18 AM IST"
+  },
+  {
     "pmid": "42777705",
     "title": "Microbial signaling coordinates group oviposition and predator defense in migratory locusts.",
     "abstract": "Reproductive synchronization is suggested to enhance fitness in many insects, yet the mechanisms enabling such coordination remain unknown. In Locusta migratoria, we identify a microbiota-derived volatile, 2,4,6-trimethylpyridine (2,4,6-TMP) that coordinates communal oviposition in gregarious females while simultaneously deterring egg predators. Eggs laid by gregarious females emit 2,4,6-TMP, which attracts conspecifics by activating the olfactory receptors LmOR34 and LmOR36; disruption of either receptor abolishes attraction and alters oviposition behavior. 2,4,6-TMP is synthesized by the egg-associated bacterium Enterobacter roggenkampii through a lysine degradation pathway. Deletion of lysine decarboxylase abolishes 2,4,6-TMP production and associated behavioral responses. Beyond facilitating reproduction, 2,4,6-TMP repels soil-dwelling predators, including ants, beetles, and potworms. In the ant Solenopsis invicta, avoidance is mediated by the olfactory receptor SinOR43a-1; RNA interference (RNAi) knockdown of this receptor abolishes repellence. Semi-field assays confirm the ecological relevance of 2,4,6-TMP. These findings reveal an egg-associated bacterial signaling mechanism that couples reproductive coordination with predator defense in L. migratoria.",
