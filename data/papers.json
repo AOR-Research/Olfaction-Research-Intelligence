@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42783334",
+    "title": "Expression Characteristics of Odorant Receptor Gene",
+    "abstract": "This study aims to characterize the structural features and spatiotemporal expression patterns of the protein encoded by odorant receptor gene",
+    "journal": "Insects",
+    "publication_date": "2026 Sep 19",
+    "authors": "Liu J, Xie B, Jia S, Gong Y, Liu M et al.",
+    "doi": "10.3390/insects17090967",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42783334/",
+    "discovered_at": "2026-09-25T10:54:33.902149+00:00",
+    "discovered_at_display": "25 Sep 2026, 04:24 PM IST"
+  },
+  {
     "pmid": "42780629",
     "title": "Complementary Breath Profiling Using eNose and Gas Chromatography-Mass Spectrometry for Noninvasive Triage of Indeterminate Pulmonary Nodules.",
     "abstract": "Breath analysis may improve the noninvasive triage of CT-detected pulmonary nodules. We prospectively evaluated two complementary breath platforms, an electronic nose (eNose) and gas chromatography-mass spectrometry (GC-MS), in patients with newly detected nodules. The eNose cohort included 89 participants (55 malignant and 34 benign), and the GC-MS cohort included 75 participants (52 malignant and 23 benign). For each platform, three logistic regression models were assessed: clinical-only, biomarker-only, and combined clinical + biomarker. For eNose, apparent discrimination improved from the clinical-only model (AUC 0.67; misclassification rate [MCR] 40.4%) to the sensor-only model (AUC 0.86; MCR 22.5%), with further improvement in the combined clinical + sensor model (AUC 0.88; MCR 22.5%). Internal validation showed attenuation, with the combined eNose model achieving a leave-one-out cross-validation (LOOCV) AUC of 0.67. For GC-MS, LASSO logistic regression showed strong apparent discrimination for the VOC-only (AUC 0.97; MCR 4%), although internal validation indicated attenuation of performance (bootstrap-corrected AUC 0.64; LOOCV AUC 0.65). The combined clinical + VOC model remained comparably high (AUC 0.96; MCR 8%), outperforming the clinical-only benchmark (AUC 0.73; MCR 32%). These findings support complementary, noninvasive breath-based approaches for pulmonary nodule triage and warrant larger multicenter validation studies.",
