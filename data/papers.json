@@ -1,5 +1,65 @@
 [
   {
+    "pmid": "42794702",
+    "title": "Modification of Single-Walled Carbon Nanotubes with Halogen-Substituted Metal Phthalocyanines for Chemiresistive Ammonia Detection.",
+    "abstract": "The development of highly sensitive and stable gas sensors at room temperature is crucial for environmental and industrial monitoring. This study reports the synthesis and characterization of novel ammonia sensors based on covalently functionalized single-walled carbon nanotubes (SWCNT-NH",
+    "journal": "International journal of molecular sciences",
+    "publication_date": "2026 Sep 17",
+    "authors": "Klyamer D, Krasnov P, Volchek V, Maksimovskiy E, Fedorenko A et al.",
+    "doi": "10.3390/ijms27188275",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42794702/",
+    "discovered_at": "2026-09-26T10:35:35.961474+00:00",
+    "discovered_at_display": "26 Sep 2026, 04:05 PM IST"
+  },
+  {
+    "pmid": "42794139",
+    "title": "Development of an Olfactory Receptor (OR5K1)-Based Biosensor for Pyrazine Detection in Foods.",
+    "abstract": "Pyrazines are the key odorants in food contributing to baked and nutty aromas. In order to improve practicality, a novel electrochemical olfactory biosensor for pyrazine analysis was developed using an olfactory receptor (OR5K1) as the recognition element and AuNPs-PB/ZIF-8@SWCNT/Ti",
+    "journal": "Foods (Basel, Switzerland)",
+    "publication_date": "2026 Sep 21",
+    "authors": "Zhang L, Chen YP, Tan SY, Xie Z, Wang X et al.",
+    "doi": "10.3390/foods15183355",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42794139/",
+    "discovered_at": "2026-09-26T10:35:35.961474+00:00",
+    "discovered_at_display": "26 Sep 2026, 04:05 PM IST"
+  },
+  {
+    "pmid": "42794112",
+    "title": "Comparative Study on Taste and Odor Flavor Compounds of Chrysanthemums from Five Different Varieties Using UPLC-Q-TOF-MS, GC-MS, E-Tongue, E-Nose, and Chemometrics.",
+    "abstract": "A practical strategy was established for distinguishing five varieties of Chrysanthemums by combining E-tongue, E-nose, GC-MS, and LC-Q-TOF-MS. A total of 19 low molecule fraction compounds and 26 volatile fraction compounds were identified as the common peaks. Chemometrics were used to screen the characteristic compounds of the five varieties of Chrysanthemums. E-tongue and E-nose were used to distinguish the taste and odor of the five varieties of Chrysanthemum, respectively. The Hangju variety had the richest taste flavor and the weakest aroma, while the Huaiju variety had the strongest odor of pine, woody, floral, and fruity aroma. The study found that 3, 5-dicaffeoylquinic acid, 1, 5-dicaffeoylquinic acid, luteolin-7-",
+    "journal": "Foods (Basel, Switzerland)",
+    "publication_date": "2026 Sep 19",
+    "authors": "Hu G, Li X, Qin G, Ben A, Qi J",
+    "doi": "10.3390/foods15183328",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42794112/",
+    "discovered_at": "2026-09-26T10:35:35.961474+00:00",
+    "discovered_at_display": "26 Sep 2026, 04:05 PM IST"
+  },
+  {
+    "pmid": "42794074",
+    "title": "Analysis of the Effect of Autoclaving on the Flavor of Fresh Ginseng Using Electronic Nose, HS-GC-IMS, and HS-SPME-GC-MS.",
+    "abstract": "Ginseng is an important plant with both medicinal and edible values, which are widely used after thermal processing. To investigate the effects of autoclaving on the flavor of fresh ginseng, electronic nose (E-nose), headspace-gas chromatography-ion mobility spectrometry (HS-GC-IMS) and headspace-solid phase microextraction-gas chromatography-mass spectrometry (HS-SPME-GC-MS) were employed to characterize the volatile organic compounds (VOCs) in autoclaved ginseng (AG) and fresh ginseng (FG). The results of E-nose detection revealed significant differences in the volatile components between AG and FG, with AG containing more abundant short-chain alkanes such as methane, organic sulfides and aromatic components. A total of 81 VOCs, mainly aldehydes, alcohols and esters, were qualitatively identified by GC-IMS. GC-MS analysis identified 1103 VOCs, among which 181 volatile components showed a downward trend and 72 exhibited an upward trend after the autoclaving process. Notably, terpenoids, esters and ketones exhibited significant differences in composition and abundance between FG and AG. This study elucidated the effects of autoclaving on the volatile flavor profile of fresh ginseng and offered critical theoretical insights for flavor analysis and quality improvement in ginseng processing, as well as the rational development of ginseng functional foods.",
+    "journal": "Foods (Basel, Switzerland)",
+    "publication_date": "2026 Sep 17",
+    "authors": "Zhang J, Li Y, Luo J, Lu S, Zhu Q et al.",
+    "doi": "10.3390/foods15183289",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42794074/",
+    "discovered_at": "2026-09-26T10:35:35.961474+00:00",
+    "discovered_at_display": "26 Sep 2026, 04:05 PM IST"
+  },
+  {
+    "pmid": "42790472",
+    "title": "Potential of the electronic nose to diagnose psoriatic arthritis in different settings.",
+    "abstract": "Early detection of psoriatic arthritis (PsA) is challenging because of its varied manifestations and diagnostic complexity. Disease-related factors such as inflammation influence metabolic processes and are detectable in volatile organic compounds (VOCs) in exhaled breath. This study explores the potential of an electronic nose (e-nose) for non-invasive PsA detection through exhaled breath analysis. Breath samples were collected from 57 outpatients with PsA and 180 healthy controls between November 2021 and March 2024. Sensor data were processed using the Aethena software package, and a Random Forest Extreme classifier was used to differentiate VOC patterns of PsA patients from healthy controls. Alternative thresholds for the e-nose risk scores were explored that maximized specificity while maintaining acceptable sensitivity (≥0.60) and vice versa. The e-nose classification score achieved an area under the receiver operating characteristic curve (AUROC) of 0.87 (95% CI: 0.80 - 0.93), effectively distinguishing PsA patients from healthy controls. The balanced risk score threshold showed a sensitivity and specificity of 0.82 and 0.79, respectively, with an accuracy of 0.80, positive predictive value of 0.55 and a negative predictive value of 0.93. Specificity could be increased to 0.97 (overall accuracy = 0.89) by increasing the classification threshold, whereas sensitivity could be increased to 0.89 (overall accuracy = 0.68) by decreasing the threshold. Exhaled breath analysis presents a promising non-invasive approach for diagnosing PsA, demonstrating good discriminatory ability. Differential cutoffs for e-nose risk prediction scores are proposed for settings that require either low false negative or false positive rates. Further studies that incorporate repeated assessments and account for the current design limitations are needed to confirm these findings.",
+    "journal": "Journal of breath research",
+    "publication_date": "2026 Sep 25",
+    "authors": "Gerritsen DD, Leentjens M, Ten Klooster PM, Hegeman MC, Hettema ME et al.",
+    "doi": "10.1088/1752-7163/aeac79",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42790472/",
+    "discovered_at": "2026-09-26T10:35:35.961474+00:00",
+    "discovered_at_display": "26 Sep 2026, 04:05 PM IST"
+  },
+  {
     "pmid": "42783334",
     "title": "Expression Characteristics of Odorant Receptor Gene",
     "abstract": "This study aims to characterize the structural features and spatiotemporal expression patterns of the protein encoded by odorant receptor gene",
