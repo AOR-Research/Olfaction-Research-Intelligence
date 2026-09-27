@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42799632",
+    "title": "Integrated Flavoromics and Metabolomics Reveal Cultivar-Specific Aroma and Taste Profiles in Fig (Ficus carica L.) Fruit Extracts.",
+    "abstract": "Fig is an economically important fruit crop renowned for its abundant bioactive compounds and distinct flavor profiles among different cultivars. Herein, we adopted an integrated analytical strategy combining electronic nose, electronic tongue, HS-SPME-GC-MS, and UHPLC-MS/MS to characterize the flavor features of extracts prepared from oven-dried fruits from three Xinjiang-grown fig cultivars (JAF, XJZH, and BJH). Significant divergence in flavor characteristics was detected across the three varieties. A total of 43 volatile organic compounds (VOCs) were identified, 23 of which were screened as differential flavor markers. Further odor activity value (OAV) analysis revealed that eight of these VOCs met the OAV ≥ 1 criterion and were considered potential aroma contributors in fig fruit extracts. For nonvolatile fractions, a total of 419 metabolites were putatively annotated via metabolomics analysis, among which 162 were identified as differential metabolites. Furthermore, correlation analysis uncovered significant associations between key differential metabolites and the response signals of electronic nose and electronic tongue. Collectively, these results provide comprehensive flavor profiles for the three processed fig fruit extracts under the current experimental conditions, and offer a reference for the flavor-oriented evaluation of fig germplasm resources.",
+    "journal": "Journal of food science",
+    "publication_date": "2026 Sep",
+    "authors": "Tuo S, Deng T, Hou Y, Wang S, Wang X et al.",
+    "doi": "10.1111/1750-3841.71457",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42799632/",
+    "discovered_at": "2026-09-27T11:07:38.811338+00:00",
+    "discovered_at_display": "27 Sep 2026, 04:37 PM IST"
+  },
+  {
     "pmid": "42794702",
     "title": "Modification of Single-Walled Carbon Nanotubes with Halogen-Substituted Metal Phthalocyanines for Chemiresistive Ammonia Detection.",
     "abstract": "The development of highly sensitive and stable gas sensors at room temperature is crucial for environmental and industrial monitoring. This study reports the synthesis and characterization of novel ammonia sensors based on covalently functionalized single-walled carbon nanotubes (SWCNT-NH",
