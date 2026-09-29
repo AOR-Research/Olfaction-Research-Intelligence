@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42805904",
+    "title": "Functionalized WS2 Electronic Nose for Volatile Organic Compound Mixture Recognition via Chemically Informed Transformer Learning.",
+    "abstract": "Accurate detection and discrimination of volatile organic compounds (VOCs) in complex environments using chemiresistive sensors remains a major challenge, mainly due to overlapping responses (cross-sensitivity) and environmental interferences. In this study, we have developed a sensor array based on defect-engineered, tungsten disulfide (WS2) nanosheets chemically functionalized with organic ligands for the detection of oxygenated VOCs. Each sensor of the array exhibits a distinct response to methanol, propanol, butanone, and formaldehyde, based on surface group-molecular interaction strength. The best performance was obtained with WS2-T for propanol, with a sensitivity of 8.8% ppm-1, a detection limit of 99.8 ppt (lowest experimentally verified limit of 5 ppb), and rapid response/recovery times of 81.5 and 58 s at 40% RH and 25 °C. The classification of individual VOCs, binary mixtures, and varying humidity was performed using supervised machine learning models. Beyond controlled analytes, a chemically informed transformer-based deep learning model (motivated by Vision Video Transformer-CIVVT) incorporating molecular fingerprints and functional group embeddings was used for direct spatiotemporal analysis of sensor signals for accurately identifying fruit odors (banana, apple, kiwi, guava, and tomato), highlighting the capability of the e-nose system for real-world applications. The demonstrated capability for fruit odor recognition and ripeness monitoring establishes its potential for next-generation food-quality monitoring to improve storage strategies.",
+    "journal": "ACS sensors",
+    "publication_date": "2026 Sep 28",
+    "authors": "Gaur S, Jana S, Chaudhury S, Gupta R",
+    "doi": "10.1021/acssensors.6c02768",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42805904/",
+    "discovered_at": "2026-09-29T03:34:17.911579+00:00",
+    "discovered_at_display": "29 Sep 2026, 09:04 AM IST"
+  },
+  {
     "pmid": "42802235",
     "title": "A derivatization-assisted SERS platform using Au TOHs/hydrogel for point-of-use detection of trace ozone in air.",
     "abstract": "A portable ozone detection strategy is reported based on derivatization-assisted surface-enhanced Raman spectroscopy (SERS). The strategy integrates active sampling, chemical derivatization, and signal enhancement using high-index gold trisoctahedrons embedded in a porous hydrogel (Au TOHs/hydrogel), assembled into a 48-well microdevice. Ozone is selectively captured by eugenol and converted to formaldehyde, which reacts with 3-methyl-2-benzothiazolinone hydrazone (MBTH) to form a Raman-active azo compound, enabling sensitive detection. The SERS signal at 1270 cm",
