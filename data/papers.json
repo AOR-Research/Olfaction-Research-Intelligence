@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42805969",
+    "title": "A 3D conductive amorphous unsaturated-ligand MIL-68(Fe) MOF as room-temperature H",
+    "abstract": "Simultaneously achieving chemiresistive gas sensors with high selectivity, sensitivity, and stability remains a significant challenge. In this study, inspired by the H",
+    "journal": "Nature communications",
+    "publication_date": "2026 Aug 27",
+    "authors": "Lv G, Zhang L, Luo Y, Zhu J, Wu J et al.",
+    "doi": "10.1002/aenm.201502471",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42805969/",
+    "discovered_at": "2026-09-29T11:54:11.791504+00:00",
+    "discovered_at_display": "29 Sep 2026, 05:24 PM IST"
+  },
+  {
     "pmid": "42805904",
     "title": "Functionalized WS2 Electronic Nose for Volatile Organic Compound Mixture Recognition via Chemically Informed Transformer Learning.",
     "abstract": "Accurate detection and discrimination of volatile organic compounds (VOCs) in complex environments using chemiresistive sensors remains a major challenge, mainly due to overlapping responses (cross-sensitivity) and environmental interferences. In this study, we have developed a sensor array based on defect-engineered, tungsten disulfide (WS2) nanosheets chemically functionalized with organic ligands for the detection of oxygenated VOCs. Each sensor of the array exhibits a distinct response to methanol, propanol, butanone, and formaldehyde, based on surface group-molecular interaction strength. The best performance was obtained with WS2-T for propanol, with a sensitivity of 8.8% ppm-1, a detection limit of 99.8 ppt (lowest experimentally verified limit of 5 ppb), and rapid response/recovery times of 81.5 and 58 s at 40% RH and 25 °C. The classification of individual VOCs, binary mixtures, and varying humidity was performed using supervised machine learning models. Beyond controlled analytes, a chemically informed transformer-based deep learning model (motivated by Vision Video Transformer-CIVVT) incorporating molecular fingerprints and functional group embeddings was used for direct spatiotemporal analysis of sensor signals for accurately identifying fruit odors (banana, apple, kiwi, guava, and tomato), highlighting the capability of the e-nose system for real-world applications. The demonstrated capability for fruit odor recognition and ripeness monitoring establishes its potential for next-generation food-quality monitoring to improve storage strategies.",
