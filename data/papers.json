@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42809403",
+    "title": "Healing cascades and infections in wounds monitored using a wearable sensor of gaseous flux.",
+    "abstract": "Capabilities for quantitative monitoring of chronic wounds remain an unmet clinical need, as existing diagnostic approaches rely on semiquantitative evaluation of symptoms that lack sensitivity especially during early stages of infection. Here, we present a scheme for tracking wound physiology that leverages a miniature, wireless skin-interfaced device for noncontact, transient measurements of the flux of volatile organic compounds (VOCs) and water vapor from the wound microenvironment. Unlike emerging smart bandage platforms that rely on physical contact with the fragile wound bed to interrogate liquid-phase biomarkers, this strategy uses an engineered microclimate and suspended suite of sensors to measure the diffusive transport of wound-derived gases across the wound surface but separated from it. The result enables quantitative evaluation of metabolic activity and healing progression without perturbing the healing tissues. In biofilm growth models of",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "publication_date": "2026 Oct 06",
+    "authors": "Cho S, Tan A, Chen Z, Pyun KR, Li S et al.",
+    "doi": "10.1073/pnas.2613824123",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42809403/",
+    "discovered_at": "2026-09-30T03:19:37.246500+00:00",
+    "discovered_at_display": "30 Sep 2026, 08:49 AM IST"
+  },
+  {
     "pmid": "42807073",
     "title": "Flavor fidelity and variation of freshly stir-fried and commercial ready-to-heat Yuxiang shredded pork using integrated sensory and volatile profiling.",
     "abstract": "Flavor fidelity of commercial ready-to-heat Yuxiang shredded pork (YSP) relative to freshly stir-fried YSP remains insufficiently characterized, particularly across products with heterogeneous formulations and processing histories. A standardized freshly stir-fried YSP was therefore used as a reference to benchmark five commercial frozen ready-to-heat products after standardized reheating using sensory evaluation, electronic nose, electronic tongue, free amino acid profiling, headspace-gas chromatography-ion mobility spectrometry (HS-GC-IMS) and headspace-solid-phase microextraction gas chromatography-mass spectrometry (HS-SPME-GC-MS) combined with chemometric and odor activity value (OAV) analyses. HS-GC-IMS and HS-SPME-GC-MS identified 81 and 158 volatile organic compounds, respectively. Orthogonal partial least squares discriminant analysis (OPLS-DA) prioritized 25 discriminatory HS-GC-IMS features, while OAV analysis screened 51 potentially odor-active GC-MS compounds. The freshly stir-fried reference showed stronger terpene- and Allium-related signals, including methanethiol, diallyl sulfide, diallyl disulphide, neral, geraniol, and 2-ethyl-3,5-dimethylpyrazine. In contrast, the pooled commercial group showed higher levels of hexanal, (E)-2-nonenal, (E,E)-2,4-decadienal, eucalyptol, caryophyllene, phenylethyl alcohol, and ethyl benzoate, reflecting greater contributions from oxidation-, heat-, and seasoning-associated volatiles. Cross-platform correlation analysis further revealed coordinated product-level variation among these volatile modules. These findings provide a market-relevant flavor benchmark for screening candidate aroma markers and prioritizing formulation and processing targets to improve flavor fidelity in ready-to-heat Sichuan dishes.",
