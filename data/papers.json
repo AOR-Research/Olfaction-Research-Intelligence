@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "42818123",
+    "title": "The functional diversification of somatosensory neuron repertoires across Mammalia.",
+    "abstract": "The striking diversity of mammalian body forms and surfaces, lifestyles, and habitats prompts the question of how each species' somatosensory neuron repertoire accommodates such diversity. The visual and olfactory systems diversify by gaining and losing sensor/receptor genes and corresponding sensory cell types. Using multiomic single-cell analysis of dorsal root ganglia neurons from thirteen different mammalian species and cross-species functional studies enabled by cell-type-specific enhancer viruses, we show that mammals instead assemble species-specific, functionally distinct somatosensory neuron repertoires from a conserved set of neuron types (orthotypes). Repertoire diversification takes multiple forms: orthotype abundance scales with variable bodily traits like hair follicle density, facilitating relevant behaviors; sensor/receptor expression is shuffled across species, such that orthotypes can detect different stimuli in different species; and orthotypes split into functionally distinct, species-specific subtypes (paratypes). Thus, unlike other sensory systems, the mammalian somatosensory system diversifies through multifarious changes to conserved orthotypes, enabling adaptation to diverse habitats, lifestyles, and body forms.",
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2026 Sep 21",
+    "authors": "Shuster SA, Xiao JY, Gegenhuber B, Bhuiyan SA, Dai M et al.",
+    "doi": "10.64898/2026.09.19.752904",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42818123/",
+    "discovered_at": "2026-10-01T22:12:05.731470+00:00",
+    "discovered_at_display": "02 Oct 2026, 03:42 AM IST"
+  },
+  {
+    "pmid": "42817894",
+    "title": "Graphene-Enabled Breathomics: A Translational Roadmap from Fundamental Physics to Non-Invasive Point-of-Care Diagnostics.",
+    "abstract": "Selective molecular recognition of trace volatile biomarkers in humid breath remains a fundamental coordination challenge at graphene interfaces. While exhaled breath contains a complex matrix of more than 3500 volatile organic compounds, clinical transition has been largely challenged by the selectivity-humidity paradox. This review traces the evolution of graphene transduction platforms from fundamental quantum phenomena to coordination-governed interfacial engineering strategies enabling selective molecular recognition. It critically analyzes the atomic-level interactions governing the interface, specifically how sublattice symmetry breaking, metal-ligand interactions, competitive water coordination, and 1/f noise spectroscopy enable detection limits at the parts-per-trillion level. It details nanoengineering strategies for superior performance, tracing the shift from pristine graphene to 2D/2D heterostructures and organic-functionalized scaffolds that introduce defined coordination environments to regulate analyte binding and suppress humidity interference. These coordination-engineered platforms are linked with clinical targets such as oncology and metabolic disorders, while machine intelligence serves as a supporting analytical layer within the sensor intelligence paradigm. Crucially, it addresses the path to clinical translation, emphasizing first-in-human safety milestones, green synthesis, and economic scalability afforded by adopting laser-induced graphene. By unifying 2D-material physics, coordination-driven selectivity, and sensor intelligence, graphene breathomics provides a chemically grounded framework for decentralized, personalized diagnostic technologies.",
+    "journal": "ACS sensors",
+    "publication_date": "2026 Oct 01",
+    "authors": "Chaudhary V, Sable H, Sonu S, Choudhary B, Pani B et al.",
+    "doi": "10.1021/acssensors.6c02104",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42817894/",
+    "discovered_at": "2026-10-01T22:12:05.731470+00:00",
+    "discovered_at_display": "02 Oct 2026, 03:42 AM IST"
+  },
+  {
     "pmid": "42817546",
     "title": "Classification of Volatile Organic Compounds Using a Novel High-Frequency Quartz Crystal Microbalance Sensor Array Based on Ethyl Cellulose Microstructures.",
     "abstract": "Detecting volatile organic compounds (VOCs) is essential because they affect air quality and can serve as biomarkers for non-invasive early disease detection. VOCs can be identified using electronic noses combining cross-reactive sensors, pattern recognition, and classification algorithms. Here, a single-polymer 12-sensor array based on 30 MHz quartz crystal microbalances was developed using three ethyl cellulose (EC) microstructures: casting films (CFs), anti-solvent microparticles (ASMs), and electrospray microparticles (ESMs). The array detected ethanol, ethyl acetate, and heptane at ppm concentrations under controlled conditions of 20 °C and 20% relative humidity. Scanning electron micrographs exhibited average mesh-hole diameters of 1.13 ± 0.44 μm for CFs, and average particle diameters of 60 ± 15 nm and 1.1 ± 0.3 μm for ASMs and ESMs, respectively. FTIR spectra indicated O-H and H-O-H bending bands for ASMs and EC, whereas these bands were notably attenuated for ESMs, suggesting their affinities for polar and non-polar compounds, respectively. Mahalanobis distance and a support vector machine classifier accurately discriminated VOCs in principal component analysis space. Principal component regression and partial least squares regression predicted VOC concentrations with R2 > 0.99, achieving estimated limits of detection of 143.6, 57, and 42.1 ppm by PCR and 70.5, 32.8, and 26.5 ppm by PLSR for ethanol, ethyl acetate, and heptane, respectively.",
