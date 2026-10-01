@@ -1,5 +1,65 @@
 [
   {
+    "pmid": "42817546",
+    "title": "Classification of Volatile Organic Compounds Using a Novel High-Frequency Quartz Crystal Microbalance Sensor Array Based on Ethyl Cellulose Microstructures.",
+    "abstract": "Detecting volatile organic compounds (VOCs) is essential because they affect air quality and can serve as biomarkers for non-invasive early disease detection. VOCs can be identified using electronic noses combining cross-reactive sensors, pattern recognition, and classification algorithms. Here, a single-polymer 12-sensor array based on 30 MHz quartz crystal microbalances was developed using three ethyl cellulose (EC) microstructures: casting films (CFs), anti-solvent microparticles (ASMs), and electrospray microparticles (ESMs). The array detected ethanol, ethyl acetate, and heptane at ppm concentrations under controlled conditions of 20 °C and 20% relative humidity. Scanning electron micrographs exhibited average mesh-hole diameters of 1.13 ± 0.44 μm for CFs, and average particle diameters of 60 ± 15 nm and 1.1 ± 0.3 μm for ASMs and ESMs, respectively. FTIR spectra indicated O-H and H-O-H bending bands for ASMs and EC, whereas these bands were notably attenuated for ESMs, suggesting their affinities for polar and non-polar compounds, respectively. Mahalanobis distance and a support vector machine classifier accurately discriminated VOCs in principal component analysis space. Principal component regression and partial least squares regression predicted VOC concentrations with R2 > 0.99, achieving estimated limits of detection of 143.6, 57, and 42.1 ppm by PCR and 70.5, 32.8, and 26.5 ppm by PLSR for ethanol, ethyl acetate, and heptane, respectively.",
+    "journal": "Sensors (Basel, Switzerland)",
+    "publication_date": "2026 Sep 19",
+    "authors": "Chuey-Mendoza I, Muñoz-Aguirre S, Ramírez-Valdés II, Mendoza-Barrera C, Castillo-Mixcóatl J et al.",
+    "doi": "10.3390/s26185934",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42817546/",
+    "discovered_at": "2026-10-01T12:10:27.841923+00:00",
+    "discovered_at_display": "01 Oct 2026, 05:40 PM IST"
+  },
+  {
+    "pmid": "42817508",
+    "title": "An NB-IoT-Based Architecture with Spatial-Statistical Analytics for Cross-Domain Air and Water Quality Monitoring in Aquaculture and Aquatic Environments.",
+    "abstract": "The rapid expansion of smart agriculture and precision aquaculture necessitates continuous, high-resolution environmental monitoring to optimize ecosystem stability and prevent catastrophic biomass loss. Conventional Internet of Things (IoT) solutions routinely treat atmospheric and aquatic parameters as isolated domains, neglecting the dynamic physicochemical coupling occurring across the air-water boundary layer. To overcome this domain fragmentation, this study presents an integrated edge-cloud telemetry architecture designed for concurrent, multi-domain environmental monitoring and cross-domain spatial-statistical analysis. The proposed framework employs low-cost, multi-sensor edge nodes integrated with Narrowband IoT (NB-IoT) cellular communication, achieving high signal penetration, energy-efficient operation, and direct base-station connectivity without local gateway dependencies. The system continuously acquires atmospheric parameters (temperature, relative humidity, particulate matter PM1.0/PM2.5/PM10, ozone O3, total volatile organic compounds TVOC, equivalent CO2, Air Quality Index AQI, and Ultraviolet Index UVI) alongside aquatic indicators (water temperature, pH, dissolved oxygen DO, electrical conductivity EC, and turbidity). Telemetry is streamed via Message Queuing Telemetry Transport (MQTT) to a centralized MySQL cloud database, providing real-time Grafana dashboards, spatial Inverse Distance Weighting (IDW) mapping, and automated multi-channel alerting via LINE Notify and email. The architecture was deployed and validated across the Tunghai University aquatic research facility, capturing",
+    "journal": "Sensors (Basel, Switzerland)",
+    "publication_date": "2026 Sep 20",
+    "authors": "Yang TC, Huang YT, Chung YF, Chen TS, Yang CT",
+    "doi": "10.3390/s26185964",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42817508/",
+    "discovered_at": "2026-10-01T12:10:27.841923+00:00",
+    "discovered_at_display": "01 Oct 2026, 05:40 PM IST"
+  },
+  {
+    "pmid": "42817452",
+    "title": "Urinary Volatile Organic Compounds as Non-Invasive Biomarkers to Distinguish Hepatocellular Carcinoma from Cirrhosis: A Multicentre Diagnostic Accuracy Study.",
+    "abstract": "Hepatocellular carcinoma (HCC) typically arises on a background of cirrhosis and carries high mortality, in large part because current surveillance tools-ultrasound and serum AFP-have suboptimal sensitivity for early-stage disease. We investigated whether urinary volatile organic compounds (VOCs) could provide a more accurate non-invasive approach. Across four UK centres, 256 participants were recruited: 72 with confirmed HCC and 184 with cirrhosis but no malignancy. Complete urine VOC profiles were obtained using an eight-sensor electronic nose in 190 participants (58 HCC, 132 cirrhosis). Seven of the eight sensors showed statistically significant differences between groups, all reaching",
+    "journal": "Sensors (Basel, Switzerland)",
+    "publication_date": "2026 Sep 18",
+    "authors": "Hussain Y, Atique A, Bannaga A, Persaud KC, Arasaradnam RP et al.",
+    "doi": "10.3390/s26185907",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42817452/",
+    "discovered_at": "2026-10-01T12:10:27.841923+00:00",
+    "discovered_at_display": "01 Oct 2026, 05:40 PM IST"
+  },
+  {
+    "pmid": "42817287",
+    "title": "Multi-Scale Temporal-Dependency Learning for Single-Sensor Gas Classification.",
+    "abstract": "Single-sensor gas classification remains challenging because metal oxide semiconductor sensors exhibit limited selectivity and different gases can produce similar response patterns. This paper proposes a multi-scale temporal-dependency-learning framework that combines reservoir-based multi-scale dynamic learning (MsDL) with lagged-correlation features. To reduce information leakage caused by window construction, each continuous gas-response sequence is divided chronologically into training, validation, and test blocks before window extraction, and 2000 raw samples are excluded between adjacent subsets. The primary evaluation uses non-overlapping windows and fits all data-dependent preprocessing using the training subset only. On a dataset containing seven volatile organic compounds measured using a single sensor, the proposed MsDL+Corr representation with a random-forest classifier achieves a test accuracy of 92.14% and a macro-F1 score of 92.08%. Across ten random-forest seeds, the accuracy is 92.43% ± 0.37%. The corresponding micro-average one-vs-rest AUC is 0.9948 (99.48%); this threshold-independent ranking metric is distinct from classification accuracy. Feature ablation shows that combining MsDL and correlation features improves the macro-F1 score over either branch alone. These results demonstrate that temporal-dependency representations provide useful discriminative information under a conservative temporally separated evaluation protocol.",
+    "journal": "Sensors (Basel, Switzerland)",
+    "publication_date": "2026 Sep 10",
+    "authors": "Yu L, Li G, Cai Z",
+    "doi": "10.3390/s26185763",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42817287/",
+    "discovered_at": "2026-10-01T12:10:27.841923+00:00",
+    "discovered_at_display": "01 Oct 2026, 05:40 PM IST"
+  },
+  {
+    "pmid": "42815399",
+    "title": "Genome-wide analyses of olfactory receptor repertoires in Glyptosternon maculatum: Implications for evolutionary dynamics and high-altitude adaptation.",
+    "abstract": "The evolutionary dynamics of the olfactory receptor (OR) gene family are key to fish adaptation across diverse ecological niches. However, the mechanisms associated with olfactory adaptation to high-altitude environments remain poorly understood. As the Sisoridae species with the highest altitudinal distribution, Glyptosternon maculatum serves as an ideal model for investigating the genetic mechanisms of such adaptation. We conducted genome-wide identification and comparative analysis of OR genes in G. maculatum and 11 other Siluriformes species. The results revealed that G. maculatum harbored 74 OR genes, comprising 65 functional genes, 7 pseudogenes, and 2 partial genes. It possessed the lowest number of OR genes and functional OR genes among the 12 species, and the highest proportion of pseudogenes. Further comparative analysis showed that G. maculatum had only four OR gene families (δ, η, λ, ζ) and 52 subfamilies, with no species-specific subfamilies identified. Selection pressure analysis showed that all calculated Ka/Ks ratios for OR genes in G. maculatum were less than 1 when compared with Bagarius rutilus (same family) and Ictalurus punctatus (same order, different family). Additionally, no significant differences were observed in the physicochemical properties of functional OR proteins among the 12 fish species. Sequence analysis of conserved motifs in OR genes revealed that the conserved motifs across the 12 Siluriformes species shared similar sequence compositions. These results indicated that the OR gene repertoire of G. maculatum exhibits distinctive evolutionary characteristics that may be associated with its high-altitude habitat. Our findings may provide a foundation for understanding potential olfactory adaptation to high-altitude environments in G. maculatum.",
+    "journal": "Comparative biochemistry and physiology. Part D, Genomics & proteomics",
+    "publication_date": "2026 Sep 25",
+    "authors": "Gao X, Zhao H, Zhang P, Chen Y, Xie M et al.",
+    "doi": "10.1016/j.cbd.2026.102038",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42815399/",
+    "discovered_at": "2026-10-01T12:10:27.841923+00:00",
+    "discovered_at_display": "01 Oct 2026, 05:40 PM IST"
+  },
+  {
     "pmid": "42814681",
     "title": "HYPOXIC INTENSITY REVEALS DISTINCT CAROTID BODY O2 SENSING MECHANISMS.",
     "abstract": "Carotid bodies (CBs) sense arterial blood O",
