@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42826824",
+    "title": "Exhaled breath metabolomics: Clinical diagnostic applications, technological evolution and translational challenges.",
+    "abstract": "Breathomics, the analysis of volatile organic compounds (VOCs) and other metabolites in exhaled breath, offers a non-invasive approach to disease screening, longitudinal monitoring and assessment of treatment response. Advances in gas chromatography-mass spectrometry, real-time mass spectrometry, electronic-nose (e-nose) sensors and machine-learning workflows have markedly improved the sensitivity and diagnostic performance of breath analysis. However, these gains have been demonstrated mainly in proof-of-concept and analytical validation studies, and remain insufficiently confirmed in prospective clinical cohorts. In this Review, we examine breathomics across the translational pathway, from breath sampling and pre-analytical standardization to analytical platforms, data processing, disease applications and clinical implementation. We focus on three clinically prominent areas, cancer, chronic respiratory disease and infectious disease, and use selected systemic disorders to illustrate the limited disease specificity of individual VOCs. Current evidence supports the presence of detectable disease-associated breath signatures, but most VOC panels remain insufficiently standardized, externally validated and mechanistically interpretable for routine clinical use. Translation will require harmonized sampling protocols, rigorous analytical validation, prospective multicenter cohorts, explainable models, regulatory approval, and evidence of clinical utility and cost-effectiveness.",
+    "journal": "Clinica chimica acta; international journal of clinical chemistry",
+    "publication_date": "2026 Oct 02",
+    "authors": "Liu H, Li D, Xia Y, Li Y",
+    "doi": "10.1016/j.cca.2026.122870",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826824/",
+    "discovered_at": "2026-10-03T10:54:13.938054+00:00",
+    "discovered_at_display": "03 Oct 2026, 04:24 PM IST"
+  },
+  {
     "pmid": "42818123",
     "title": "The functional diversification of somatosensory neuron repertoires across Mammalia.",
     "abstract": "The striking diversity of mammalian body forms and surfaces, lifestyles, and habitats prompts the question of how each species' somatosensory neuron repertoire accommodates such diversity. The visual and olfactory systems diversify by gaining and losing sensor/receptor genes and corresponding sensory cell types. Using multiomic single-cell analysis of dorsal root ganglia neurons from thirteen different mammalian species and cross-species functional studies enabled by cell-type-specific enhancer viruses, we show that mammals instead assemble species-specific, functionally distinct somatosensory neuron repertoires from a conserved set of neuron types (orthotypes). Repertoire diversification takes multiple forms: orthotype abundance scales with variable bodily traits like hair follicle density, facilitating relevant behaviors; sensor/receptor expression is shuffled across species, such that orthotypes can detect different stimuli in different species; and orthotypes split into functionally distinct, species-specific subtypes (paratypes). Thus, unlike other sensory systems, the mammalian somatosensory system diversifies through multifarious changes to conserved orthotypes, enabling adaptation to diverse habitats, lifestyles, and body forms.",
