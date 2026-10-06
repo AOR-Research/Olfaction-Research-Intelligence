@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "42833193",
+    "title": "Neurogenetics: Young adult mosquito receptor found that leads females to nectar.",
+    "abstract": "Female mosquitoes shift from plant to animal hosts as they mature, but how this is accomplished is unknown. A new study reveals that an olfactory receptor can guide young females towards nectar sources, and its absence marks the shift towards blood-feeding.",
+    "journal": "Current biology : CB",
+    "publication_date": "2026 Oct 05",
+    "authors": "DeGennaro M",
+    "doi": "10.1016/j.cub.2026.08.006",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42833193/",
+    "discovered_at": "2026-10-06T04:09:35.137589+00:00",
+    "discovered_at_display": "06 Oct 2026, 09:39 AM IST"
+  },
+  {
+    "pmid": "42832908",
+    "title": "In situ hybridization analysis of the expression of class I and II odorant receptors in the olfactory organ of the African spurred tortoise (Centrochelys sulcata).",
+    "abstract": "The olfactory organ of turtles consists of an upper chamber epithelium (UCE) associated with glands and a lower chamber epithelium (LCE) lacking glands. The odorant receptors (ORs) are a family of olfactory receptors generally categorized into classes I and II based on sequence similarity. In amniotes, class I and II ORs are thought to preferentially detect hydrophilic and hydrophobic molecules, respectively. The relative abundance of OR classes vary among turtles: while class I ORs predominate in aquatic turtles, class II ORs are more abundant in terrestrial turtles. However, it remains unclear where these receptors are expressed in the olfactory organ of turtles. In this study, we identified eight class I ORs and 61 class II ORs and examined the distribution of OR-expressing cells in the olfactory organ of the African spurred tortoise (Centrochelys sulcata). In situ hybridization analysis revealed that all representative class I ORs examined in C. sulcata are expressed in both the UCE and the LCE, whereas all representative class II ORs examined are restricted to the UCE. These findings are in marked contrast to our previous observations in the olfactory organ of the sea turtle Chelonia mydas. Also, double-labeling experiments revealed that class I ORs are not co-expressed with the transcription factor B-cell lymphoma/leukemia 11b (Bcl11b), suggesting that Bcl11b-mediated repression of class I OR expression is conserved in C. sulcata. Present findings suggest that ecological adaptation of turtles may be correlated with variation in the expression site of ORs within the olfactory organ.",
+    "journal": "Tissue & cell",
+    "publication_date": "2026 Sep 24",
+    "authors": "Nakamuta S, Zhang Z, Nikaido M, Noda H, Yokoyama T et al.",
+    "doi": "10.1016/j.tice.2026.103983",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42832908/",
+    "discovered_at": "2026-10-06T04:09:35.137589+00:00",
+    "discovered_at_display": "06 Oct 2026, 09:39 AM IST"
+  },
+  {
     "pmid": "42828593",
     "title": "Advanced insights into the adsorption mechanism of coumarin compounds on mouse olfactory receptors: a statistical physics, thermodynamic, and molecular docking analysis.",
     "abstract": "In this paper, a combined statistical physics and computational modeling framework was used to elucidate the molecular mechanism of olfaction through a putative adsorption process in which coumarin compounds bind to the mouse olfactory receptors Olfr924, Olfr285, and Olfr1016. Adsorption isotherms derived from experimental data were analyzed using both monolayer and double-layer statistical physics models, enabling the quantitative determination of steric and energetic parameters governing odorant-receptor interactions. The steric analysis reveals diverse anchoring behaviors, with coumarin molecules adopting both parallel and non-parallel orientations relative to receptor binding sites, indicative of mixed adsorption configurations. The estimated adsorption energies, ranging from 13.563 to 33.872 kJ/mol, suggest that the coumarin compounds are physically adsorbed onto the receptors, offering insight into the steric and energetic heterogeneity of the receptor. Moreover, the application of statistical physics modeling enabled a detailed steric characterization of the receptor surface through binding site size distributions (BSDs) and an energetic characterization via adsorption energy distributions (AEDs). To complement microscopic analysis, a macroscopic thermodynamic study was also performed, providing further insight into the adsorption behavior of coumarin compounds on the olfactory receptors. To further validate and complement these findings, molecular docking simulations were performed to identify interaction types and binding modes between coumarin ligands and olfactory receptors. Together, these results demonstrate the effectiveness of integrating statistical physics modeling with molecular docking to elucidate mechanisms of olfactory perception at both microscopic and macroscopic scales. The three complexes formed between coumarin and the olfactory receptor sites (Olfr285, Olfr924, and Olfr1016) have been analyzed using molecular docking simulations, molecular dynamics simulations, and free binding energies calculated using the molecular mechanics-Poisson-Boltzmann surface (MM-PBSA) and molecular mechanics-generalized Born surface (MM-GBSA) methods.",
