@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42849127",
+    "title": "An Artificial Olfactory Chip with Temperature Gradient Modulation for Food Waste Management.",
+    "abstract": "Increasing demand for fuels driven by the scarcity of fossil resources necessitates the development of sustainable and innovative strategies for the energy industry. Food waste has emerged as a viable resource with diverse functional chemical components for energy harvesting. To enhance the efficiency and effectiveness of energy generation from food waste, classification and monitoring of food waste are crucial. Traditional vision recognition methods often face challenges due to waste overlaps and environmental constraints. In contrast, employing artificial olfactory chips (AOCs) holds promise in classifying food waste via gaseous information. However, bulky size, low sensitivity, limited classification ability, poor robustness, and lack of scalability hinder the implementation of AOCs into food waste management systems. Herein, we report a compact, monolithic AOC featuring a gas sensor array with temperature gradient modulation (TGM-Array), offering a promising platform for this application. Constructed on a porous anodized aluminum oxide (AAO) template with a high surface area, the TGM-Array chips demonstrate high sensitivity, detecting ethanol (EtOH) and hydrogen sulfide (H2S) at concentrations as low as 100 parts-per-billion (ppb). Leveraging the response patterns from sensing pixels at different operating temperatures, the TGM-Array chips exhibit effective discriminability. They categorized EtOH and H2S by type and concentration and distinguished selected food waste samples, such as beef and tomatoes, as well as their mixtures at different post-disposal durations under controlled experimental conditions. In addition, the TGM-Array chips maintain good robustness across four testing periods, identifying beef and tomato samples with varied post-disposal durations. Furthermore, their fabrication processes are photolithography-free and involve only three steps, rendering the TGM-Array chips cost-effective and well-suited for large-scale deployment in trash bins. These capabilities suggest the potential of TGM-Array chips for developing intelligent trash bin systems for improving food waste management efficiency and enhancing energy recovery processes.",
+    "journal": "ACS sensors",
+    "publication_date": "2026 Oct 08",
+    "authors": "Tang W, Chan CLJ, Zhang W, Wang C, Ding Y et al.",
+    "doi": "10.1021/acssensors.6c01709",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42849127/",
+    "discovered_at": "2026-10-09T03:56:26.080069+00:00",
+    "discovered_at_display": "09 Oct 2026, 09:26 AM IST"
+  },
+  {
     "pmid": "42844688",
     "title": "Semiconducting Metal Oxide Gas Sensors for VOCs, N",
     "abstract": "Semiconductor metal oxide (SMOX) gas sensors are attractive platforms for detecting volatile organic compounds, greenhouse gases, and hazardous organophosphorus compounds owing to their low cost, structural simplicity, miniaturization potential, and high sensitivity. However, their practical application remains limited by high operating temperatures, poor selectivity, humidity interference, and an incomplete understanding of surface reaction mechanisms. This review discusses recent advances in resistance-change-type SMOX gas sensors from the integrated viewpoints of materials chemistry, operando mechanistic analysis, and data-driven gas identification. Representative n-type oxides, including ZnO, SnO",
