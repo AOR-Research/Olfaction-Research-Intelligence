@@ -1,5 +1,53 @@
 [
   {
+    "pmid": "42858979",
+    "title": "Characterization and decoding of volatile compounds in Rugiboletus extremiorientalis at different drying temperatures: A combined analysis by ATR-FTIR, HS-SPME-GC-MS, E-nose, and molecular docking.",
+    "abstract": "This study used Attenuated total reflectance Fourier transform infrared (ATR-FTIR) spectroscopy, electronic nose, and gas chromatography-mass spectrometry (GC-MS) to investigate the composition of Rugiboletus extremiorientalis changes at different drying temperatures. Molecular docking was employed to elucidate the perception mechanism of aroma, and machine learning was utilized to develop a rapid quality evaluation method. The spectral data reflected compositional change patterns, which were validated by GC-MS. As temperature increased, component concentrations and spectral absorbance gradually decreased. 86 potential key aroma compounds were screened based on differential metabolites and relative odor activity values (ROAVs). Binding energy results for these compounds and 15 olfactory receptors (ORs) revealed strong binding affinities, primarily through hydrogen bonds and hydrophobic interactions. Partial least squares regression (PLSR) models based on derivatives and iterative variable subset optimization (IVSO) effectively predicted the content of 25C-8 compounds. This study established a research framework linking compositional changes, the perception mechanisms of flavor molecules, and rapid quality evaluation. This framework provides a theoretical basis for understanding changes in mushroom flavor and molecular perception. It also provides methodological guidance for drying processes and rapid compositional analysis.",
+    "journal": "Food research international (Ottawa, Ont.)",
+    "publication_date": "2026 Nov 30",
+    "authors": "Deng G, Li J, Liu H, Wang Y",
+    "doi": "10.1016/j.foodres.2026.120442",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858979/",
+    "discovered_at": "2026-10-11T11:53:59.614446+00:00",
+    "discovered_at_display": "11 Oct 2026, 05:23 PM IST"
+  },
+  {
+    "pmid": "42858450",
+    "title": "Differentiable End-to-End Sensor Array Optimization for Electronic Nose via Local Self-Attention.",
+    "abstract": "Electronic noses (e-noses) based on cross-selective gas sensors often suffer from severe redundancy, which degrades odor analysis accuracy and impedes practical deployment. Here, we introduce a fully deep-learning-based sensor array optimization (SAO) framework that learns an optimal subset of sensor array through an end-to-end differentiable manner. Unlike conventional step-by-step workflows, which separate feature extraction, feature selection, sensor selection, and model training, our method jointly optimizes the sensor selection strategy, feature extractor, and task-specific network, enabling global collaborative optimization. Core to the framework is a local self-attention mechanism that infers sensor-wise importance while preserving the temporal structure of individual sensor responses, together with a tanhshrink-based gating function that drives redundant channels exactly to zero without requiring explicit sparsity regularization. Experiments on a 13-channel polyaniline sensor array exposed to six volatile organic compounds show that the proposed method achieves an accuracy of 91.18 ± 0.55% using only four sensors, reducing the number of sensors by nearly 70% while outperforming conventional approaches. These results demonstrate that the differentiable SAO can improve both efficiency and accuracy in practical e-nose applications.",
+    "journal": "ACS sensors",
+    "publication_date": "2026 Oct 10",
+    "authors": "Qu Z, Su C, Zhang L, Du T, Liu X et al.",
+    "doi": "10.1021/acssensors.6c00607",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42858450/",
+    "discovered_at": "2026-10-11T11:53:59.614446+00:00",
+    "discovered_at_display": "11 Oct 2026, 05:23 PM IST"
+  },
+  {
+    "pmid": "42857467",
+    "title": "Design of nanocrystalline nickel oxide for detection of triethylamine and fish spoilage monitoring.",
+    "abstract": "Fish and seafood freshness can be monitored through volatile organic compounds (VOCs) released during spoilage, especially volatile nitrogenous compounds (VNCs) such as triethylamine (TEA). Consuming spoiled seafood can lead to serious health issues such as food poisoning, gastrointestinal problems, and intoxication, emphasising the importance of accurate real-time monitoring techniques. P-type semiconducting metal oxides (SMO",
+    "journal": "Nanoscale advances",
+    "publication_date": "2026 Sep 29",
+    "authors": "Theodoro RS, Santos GSM, Gropelo HS, Martins BO, Perfecto TM et al.",
+    "doi": "10.1039/d6na00686h",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42857467/",
+    "discovered_at": "2026-10-11T11:53:59.614446+00:00",
+    "discovered_at_display": "11 Oct 2026, 05:23 PM IST"
+  },
+  {
+    "pmid": "42856181",
+    "title": "Imaging mitral/tufted glomeruli in the mouse olfactory bulb using the genetically encoded voltage indicator ArcLight.",
+    "abstract": "In the mammalian olfactory bulb, each olfactory receptor neuron type maps to receptor-specific channels called glomeruli. These input axons interact with the apical dendrites of mitral/tufted cells, which are projection neurons that send axons to the olfactory cortex. Therefore, each glomerulus reflects the input-output relationship for a different olfactory receptor type, which is transformed by a complex synaptic network. While prior 2-photon Ca",
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2026 Sep 28",
+    "authors": "Leong LM, Lloyd E, Storace DA",
+    "doi": "10.64898/2026.09.22.753601",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42856181/",
+    "discovered_at": "2026-10-11T11:53:59.614446+00:00",
+    "discovered_at_display": "11 Oct 2026, 05:23 PM IST"
+  },
+  {
     "pmid": "42855098",
     "title": "Liposomal co-delivery of astaxanthin and ascorbic acid: Synergistic regulation of myofibrillar protein interactions and oxidative stability.",
     "abstract": "This study systematically investigated the interactions between different liposomes and myofibrillar protein (MP), as well as their effects on the gel structure, water-holding capacity, storage stability, and odor properties of surimi gels. The findings revealed that liposomes, as carrier vehicles, formed stable complexes with MP. These interactions were suggested to be mediated by non-covalent forces, including hydrogen bonding and hydrophobic interactions, which induced the transition of the MP secondary structure toward α-helix and a rearrangement of its tertiary structure. An appropriate amount (0.4%) of liposomes significantly improved the water-holding capacity and gel strength of the gels, but excessive addition (0.6%-0.8%) instead caused deterioration of the gel network. Co-encapsulation of astaxanthin and ascorbic acid within liposomes significantly enhanced the antioxidant capacity of the gels through synergistic effects, outperforming the single-loaded liposome group during thermal processing and storage. E-nose analysis indicated that liposome encapsulation reduced the characteristic odor of astaxanthin, as reflected by the overall volatile profile. This study provides a theoretical basis for the development of high-quality functional surimi products.",
