@@ -1,5 +1,41 @@
 [
   {
+    "pmid": "42867335",
+    "title": "External cavity quantum cascade laser absorption spectroscopy based on convolutional neural network algorithm for volatile organic compounds analysis.",
+    "abstract": "Volatile organic compounds (VOCs) are organic compounds having significant impacts on environmental and human health. In this paper, a laser absorption spectroscopy gas sensor system based on an external cavity quantum cascade laser was developed for analyzing multiple VOCs simultaneously. Acetone (C3H6O) and ethanol (C2H6O), as two typical VOCs, were selected as the objects of analysis. Given the overlapping interference issue of C3H6O and C2H6O absorption spectra, a one-dimensional spectral separation convolutional neural network algorithm was developed for VOC spectral signal processing. The experimental results indicated that the spectral fitting residuals were within 0.0028, achieving an 8.77-fold improvement over the traditional partial least squares method. The correlation coefficients for concentration predictions of C3H6O and C2H6O can be improved from 0.9991 and 0.9989 to 0.9996 and 0.9996, respectively, which shows good reliability of the developed algorithm model for both blended absorption spectrum separation and concentration retrieval in the simultaneous detection of multiple gas components.",
+    "journal": "The Review of scientific instruments",
+    "publication_date": "2026 Oct 01",
+    "authors": "Hu Z, Zhu Z, Liu T, He T, Zhang M et al.",
+    "doi": "10.1063/5.0349406",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42867335/",
+    "discovered_at": "2026-10-14T02:58:09.451363+00:00",
+    "discovered_at_display": "14 Oct 2026, 08:28 AM IST"
+  },
+  {
+    "pmid": "42866882",
+    "title": "Self-Powered Multivariable Organic Photovoltaic Sensors for Accurate Volatile Organic Compound Discrimination.",
+    "abstract": "Most existing VOC sensors rely on battery power and only single-parameter outputs, limiting long-term deployment, maintenance efficiency, and chemical discrimination. Here, we report a self-powered multivariable photovoltaic sensor (MPVS) that repurposes an organic photovoltaic junction as an information-rich VOC sensing platform. By integrating a gas-permeable silver nanowire electrode with a donor-acceptor bulk-heterojunction active layer, the MPVS enables efficient analyte access while maintaining stable photovoltaic operation under illumination. Exposure to VOCs induces coupled and reversible changes in open-circuit voltage (VOC) and short-circuit current density (JSC), providing two orthogonal sensing features without external power input. Using a single PM6:Y6 junction, we demonstrate concentration-dependent responses and reliable discrimination of representative VOCs. Extending the concept to a five-element MPVS array incorporating different Y-series acceptors generates high-dimensional photovoltaic fingerprints that enable accurate identification of eight chemically distinct VOCs. Density functional theory (DFT) calculations and in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) reveal that analyte-dependent noncovalent interactions, particularly strong hydrogen bonding in the case of formic acid, underlie the observed selectivity. By integrating energy harvesting and multivariate sensing within a single organic photovoltaic platform, this work establishes a scalable, battery-free approach to artificial olfaction, offering a promising pathway for distributed and long-term VOC monitoring systems.",
+    "journal": "ACS sensors",
+    "publication_date": "2026 Oct 13",
+    "authors": "Feng H, Liu Z, Liu T, Li Y, Yu C et al.",
+    "doi": "10.1021/acssensors.6c03607",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42866882/",
+    "discovered_at": "2026-10-14T02:58:09.451363+00:00",
+    "discovered_at_display": "14 Oct 2026, 08:28 AM IST"
+  },
+  {
+    "pmid": "42866489",
+    "title": "Quality divergence of Yunnan upland rice versus Jiangxi and Heilongjiang paddy rice revealed by physicochemical, sensory, volatile and metabolomic profiling.",
+    "abstract": "This study aimed to evaluate quality differences between Yunnan upland rice (YNUR) collected in Honghe, Pu'er, Nujiang and Qujing and paddy rice from Jiangxi and Heilongjiang by physicochemical indexes, taste analyzer, sensory evaluation, e-nose, and untargeted metabolomics. Compared with paddy rice, YNUR exhibited significantly higher amylose content (11.78-14.11%), lower expected glycemic index (60.55-69.13), and higher taste value (8.75-9.01), along with a higher retrogradation value and lower breakdown value. Its texture was characterized by high hardness, high elasticity and low viscosity. Furthermore, YNUR had higher aldehyde and ketone contents, presenting an aroma profile dominated by fruity and faint pungent notes. (Z)-2-nonenal, nonanal and 2-ethyl-3,5-dimethylpyrazine were the key differential odor compounds. Metabolomic analysis identified 573 differential metabolites and revealed significant enrichment of glycerophospholipid and amino acid metabolic pathways in YNUR. This study characterizes the quality attributes of upland rice and provides insights for the cultivation and application of water-saving rice.",
+    "journal": "Food chemistry: X",
+    "publication_date": "2026 Oct",
+    "authors": "Xiao Y, Wang Z, Yue N, Tuo Y, Wen J et al.",
+    "doi": "10.1016/j.fochx.2026.104539",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42866489/",
+    "discovered_at": "2026-10-14T02:58:09.451363+00:00",
+    "discovered_at_display": "14 Oct 2026, 08:28 AM IST"
+  },
+  {
     "pmid": "42863095",
     "title": "Proton-Conduction-Mediated High-Performance Ethanol Sensing in a Ni3(HHTP)2/Nafion Composite at Room Temperature.",
     "abstract": "Conductive metal-organic frameworks (c-MOFs) are promising chemiresistive sensing materials for selective gas detection; however, their practical deployment is hindered by insufficient selectivity and humidity-induced performance degradation, both of which stem from poorly understood molecular-level conduction mechanisms. Here, we address this gap by engineering a Nafion-functionalized Ni3(HHTP)2 composite that enables a mechanistic shift from electron-dominant to synergistic electron-proton conduction. Through systematic in situ fourier transform infrared spectroscopy (FTIR)/X-ray photoelectron spectroscopy (XPS) and electrochemical impedance spectroscopy (EIS), we elucidate that the sensing process depends on competitive adsorption between ethanol molecules and prehydrated hydronium ions at the composite interface, disrupting the hydrogen-bond network. The conductive Ni3(HHTP)2 framework ensures efficient electron transport, while Nafion's microphase-separated structure confers dual molecular sieving and preconcentration effects for ethanol. The resulting sensor delivers a high response of 729% to 30 ppm ethanol at RT and 40% RH, exhibits remarkable selectivity, as evidenced by linear discriminant analysis (LDA) with a classification accuracy of 90.91%, and shows rapid kinetics and strong discrimination against common interferents. This work established a fundamental mechanistic framework for proton-electron co-conduction in c-MOFs, supported by in situ spectroscopy and electrochemical analysis. It presents a generalizable interface-modulation strategy for selective volatile organic compound (VOC) sensing under ambient conditions, showing promise for breath analysis applications and industrial safety monitoring.",
