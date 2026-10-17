@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42886219",
+    "title": "AI-Enabled Mixed Potential Sensor Array for Complex VOC Mixture Decoding and Real-Time Methanol-Risk Assessment in Baijiu.",
+    "abstract": "Accurate identification of complex gas mixtures in dynamic real-world environments is essential for environmental monitoring, food safety, and public health. However, these challenges arise mainly from overlapping response fingerprints of chemically similar hazardous analytes and the limited capability of conventional sensors to decouple multicomponent, concentration-coupled signals. Here, we report a ZnFe2O4/MoO3 mixed potential sensor array enabled by a material-device-algorithm co-design strategy. Through compositional engineering of the sensing electrodes, the array generates orthogonal cross-reactive fingerprints for six volatile organic compounds, with response fluctuation standard deviations of 0.47-2.43 mV across all analytes and a rapid response time of 12 s toward 100 ppm triethylamine. To address alcohol mixtures with strong competitive adsorption, including methanol, ethanol, and n-butanol, a CNN-BiLSTM spatiotemporal fusion model extracts multiscale features from dynamic sensing responses, enabling simultaneous mixture classification and concentration prediction. The system achieves recognition accuracies of 100 and 99.33% for the test set and independent validation set, respectively, with corresponding mean absolute errors of 1.61 and 1.62 ppm. We further extend this strategy to a portable Baijiu MeOH sensing platform for real-time methanol-risk assessment in complex liquor matrices, achieving above 98.89% accuracy in identifying samples exceeding the statutory limit. This work integrates interfacial electrochemical regulation, high-dimensional array sensing, deep-learning-enabled signal decoupling, and portable system implementation, offering a deployable route toward intelligent gas sensing in complex real-world environments.",
+    "journal": "ACS sensors",
+    "publication_date": "2026 Oct 16",
+    "authors": "Du J, Shi H, Li X, Pan Y, Lv Y et al.",
+    "doi": "10.1021/acssensors.6c02752",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42886219/",
+    "discovered_at": "2026-10-17T02:25:31.737559+00:00",
+    "discovered_at_display": "17 Oct 2026, 07:55 AM IST"
+  },
+  {
     "pmid": "42884349",
     "title": "Dual-Site Synergistic Modulation of La",
     "abstract": "Methane (CH",
