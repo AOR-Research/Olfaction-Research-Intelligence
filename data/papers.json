@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "42896843",
+    "title": "MBWCT-Net: Multiscale Transient Learning for Early Discrimination of Wood-Extracted VOC Mixtures via an Electronic Nose.",
+    "abstract": "Metal oxide semiconductor electronic noses offer a compact and nondestructive method for volatile organic compound (VOC) analysis. However, reliable recognition of multicomponent mixtures remains challenging because of sensor cross-sensitivity, nonlinear adsorption-desorption dynamics, sensor drift, and long acquisition cycles. Eucalyptus, Rosewood, and Sandalwood essential oils were used as controlled plant-derived VOC benchmarks. Static-headspace gas chromatography-mass spectrometry showed partially shared constituents but distinct dominant headspace fingerprints: Eucalyptus was rich in eucalyptol and monoterpenes, Rosewood was linalool-dominant, and Sandalwood showed a substantially different and partly unresolved profile. The three samples therefore did not exhibit uniformly high compositional similarity. We developed MBWCT-Net, a physics-motivated Multi-Branch Wavelet CNN-Transformer Network that combines a Multi-Scale Wavelet Parallel Network, Lightweight Cross-Attention, and a Multi-Scale Adaptive Transformer to model multiscale response components, cross-band coupling, and local-global temporal dependencies. Under an identical five-fold protocol, MBWCT-Net achieved 95.37 ± 0.61% accuracy and 95.37 ± 0.66% weighted F1, outperforming both raw-input and wavelet-enhanced baselines. Using the first 45 s of the transient response, accuracy reached 94.61 ± 0.70%, within 0.76 percentage points of the complete 60 s response. Deployment on an RK3588 platform yielded a single-sample inference latency of 12.4 ± 0.8 ms and a memory footprint of 48.5 MB. These measurements characterize computational feasibility and do not represent the duration of the complete sensing cycle. Response plots from three independent measurements and normalization-shape checks assessed short-term repeatability and preprocessing effects. Quantitative high-dimensional feature metrics and measured-noise physical-validity analyses evaluated class separability and the preservation of temporal morphology, respectively.",
+    "journal": "ACS sensors",
+    "publication_date": "2026 Oct 19",
+    "authors": "Zhang Q, Liu J, Zou X, Qian Y, Su SW et al.",
+    "doi": "10.1021/acssensors.6c02142",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42896843/",
+    "discovered_at": "2026-10-20T10:44:57.635733+00:00",
+    "discovered_at_display": "20 Oct 2026, 04:14 PM IST"
+  },
+  {
+    "pmid": "42896321",
+    "title": "Ag-SnO",
+    "abstract": "TEA is a highly flammable and neurotoxic volatile organic compound; prolonged exposure can lead to emphysema and even immediate death, making the development of rapid, highly responsive TEA gas sensors an urgent priority. Although tin dioxide (SnO",
+    "journal": "Journal of hazardous materials",
+    "publication_date": "2026 Oct 12",
+    "authors": "Lv L, Cao W, Liu K, Li C, Wang J et al.",
+    "doi": "10.1016/j.jhazmat.2026.143888",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42896321/",
+    "discovered_at": "2026-10-20T10:44:57.635733+00:00",
+    "discovered_at_display": "20 Oct 2026, 04:14 PM IST"
+  },
+  {
     "pmid": "42894736",
     "title": "Role of olfactory receptor Olfr544 in neuronal cells: Insights into neurite outgrowth and CREB signaling.",
     "abstract": "Olfactory receptors (ORs) are expressed beyond the nasal epithelium and implicated in brain function, yet their roles remain unclear. This study investigated the function of the OR Olfr544, which has been reported to be highly expressed near amyloid plaques in Alzheimer's disease model mice, using the mouse neuroblastoma N2a cell line. We found that its agonist azelaic acid (AZA) promotes neurite outgrowth and activates the cAMP-PKA-CREB signaling cascade in an Olfr544-dependent manner. Transcriptome analysis of",
