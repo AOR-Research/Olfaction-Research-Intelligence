@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "42904118",
+    "title": "Surface morphology-driven gas sensing performance of CdS-modified TiO",
+    "abstract": "In recent years, gas sensors have played a crucial role in gas detection technologies, largely due to the increased surface area of their sensing films. The concept of fractals was applied to quantify surface characteristics such as roughness, surface area, and fractal dimension. This approach was employed to enhance sensing performance by informing the design of sensor microstructures. In this study, we investigate how CdS incorporation into TiO",
+    "journal": "RSC advances",
+    "publication_date": "2026 Oct 20",
+    "authors": "Vishwakarma AK, Sharma AK, Yadav RP, Priya PK, Yadav M et al.",
+    "doi": "10.1039/d6ra06387j",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42904118/",
+    "discovered_at": "2026-10-23T02:48:05.880996+00:00",
+    "discovered_at_display": "23 Oct 2026, 08:18 AM IST"
+  },
+  {
+    "pmid": "42903299",
+    "title": "Effects of",
+    "abstract": "CRP powder partially replaced high-gluten wheat flour at levels of 0, 1.0, 2.0, and 3.0%. Baking quality attributes were evaluated by measuring specific volume, loaf height, baking loss, color, and texture. Aroma characteristics were assessed by sensory analysis and an electronic nose, while volatile compounds were analyzed by gas chromatography-mass spectrometry (GC-MS). Odor activity values (OAVs) and partial least squares discriminant analysis (PLS-DA) were used to characterize potential odor-active compounds and differences among treatments. Increasing CRP powder reduced specific volume from 2.98 to 2.54 cm CRP powder substantially reshaped the aroma profile of toast bread but adversely affected loaf expansion and texture at higher addition levels. Overall, 2.0% CRP powder provided a favorable compromise between enhancement of the characteristic CRP aroma and the accompanying changes in baking quality, supporting its potential application as a natural flavoring ingredient in bakery products.",
+    "journal": "Frontiers in nutrition",
+    "publication_date": "2026",
+    "authors": "Jiang Y, Yang H, Hu Y, Lin Y, Hu E et al.",
+    "doi": "10.3389/fnut.2026.1964585",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42903299/",
+    "discovered_at": "2026-10-23T02:48:05.880996+00:00",
+    "discovered_at_display": "23 Oct 2026, 08:18 AM IST"
+  },
+  {
     "pmid": "42901206",
     "title": "Fast and Sensitive Ionogel Capacitive Sensing of Acetic Acid at Room Temperature for Early Plant Salt Stress Detection.",
     "abstract": "Acetic acid has been identified as an early biomarker of salt stress in plants, enabling precise monitoring of plant health and timely detection of stress. However, its rapid and selective detection at room temperature remains challenging. Herein, we report an ionogel capacitive chemical sensor based on a polydimethylsiloxane (PDMS) matrix incorporating the ionic liquid 1-butyl-3-vinylimidazolium tetrafluoroborate ([VBIM][BF4]). The resulting ionogel sensor exhibits high selectivity toward acetic acid over common volatile organic compounds, originating from solvent effects and electrostatic interactions between acetic acid molecules and the ionic liquid, as revealed by density functional theory (DFT) calculations. Owing to these interactions, the sensor achieves a rapid response time of approximately 6 s at room temperature, and the practical limit of detection is as low as 500 ppb. In addition, the sensor shows excellent long-term stability and mechanical flexibility. The sensor maintains stable sensing performance after 180 days of storage at room temperature and can be integrated with a wireless monitoring system. Furthermore, the sensor detects the acetic acid released by salt-stressed plants, highlighting its potential as an early-warning platform for agricultural stress monitoring.",
