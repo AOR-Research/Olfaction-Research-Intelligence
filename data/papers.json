@@ -1,5 +1,53 @@
 [
   {
+    "pmid": "42926385",
+    "title": "Odor-evoked activity outside canonical areas of olfactory information transmission is visualized by ODORTRAP and modulated by diet-induced obesity.",
+    "abstract": "Enhanced excitability of output neurons in the olfactory bulb (OB) has been linked to regulation of energy homeostasis. The mechanism by which the olfactory system can drive metabolic state while processing odor information remains elusive yet must depend upon integration and relay to the rest of the brain. Herein, we screened brain-wide neuronal ensembles that preferentially engaged during odor stimulation (referred to as ODORTRAP) utilizing FOSTRAP activity mapping. Mice were exposed to the odor isopropyl tiglate (IPT), a preferred ligand for the olfactory receptor 160, previously shown to be vulnerable to diet-induced obesity. Odor activation resulted in elevated labelling in the olfactory bulb (ODORTRAP) ( Investigators used an unique transgenic mouse line that permits Inducible immediate-early gene activation, linking odor stimulation with neural activity (called ODORTRAP) to map circuits beyond the olfactory bulb and olfactory cortices to those of brain regions involved in feeding and energy homeostasis.Olfactory input engages hypothalamic feeding-related nuclei - namely the arcuate, the dorsomedial, and the lateral hypothalamus; suggesting a selective integration of olfactory information.An obesogenic diet disrupts odor-evoked hypothalamic activation while altering the mesolimbic reward pathway.",
+    "journal": "bioRxiv : the preprint server for biology",
+    "publication_date": "2026 Oct 05",
+    "authors": "Mitra S, Pacheco FA, Fadool DA",
+    "doi": "10.64898/2026.09.28.755029",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42926385/",
+    "discovered_at": "2026-10-25T10:28:59.177261+00:00",
+    "discovered_at_display": "25 Oct 2026, 03:58 PM IST"
+  },
+  {
+    "pmid": "42925590",
+    "title": "Colony isolation of odorant receptor-expressing insect sensor cells in hollow hydrogel microparticles for enhanced biohybrid sensor sensitivity.",
+    "abstract": "Cell-based biohybrid sensors using insect olfactory receptors (ORs) have emerged as promising sensing platforms for the selective and sensitive detection of biomarkers. A single sensor cell provides a weak signal, so the readout of most biohybrid sensors is the accumulated response of a whole population of cells. Response heterogeneity within engineered sensor cell populations can limit sensor sensitivity because low-responding cells dilute the bulk-averaged signal. Selecting highly responsive subclones could improve sensor sensitivity. However, most insect cell lines proliferate poorly at low cell density, making it challenging to obtain expandable colonies from a single insect cell. Here, we present a colony-isolation workflow for insect sensor cells using hollow hydrogel microparticles (PicoShells). Insect sensor cells were encapsulated in PicoShells at limiting dilutions to physically isolate one or a few cells. The encapsulated insect sensor cells were co-cultured with non-encapsulated support cells in the same suspension culture to promote colony formation. Individual colony-containing PicoShells were isolated and expanded into subclonal cell lines. Functional screening using a portable fluorescence detector and a microwell array identified a highly responsive subclone. In a human urine sample spiked with acetophenone, a candidate volatile biomarker of disease, this subclone showed an approximately 2.4-fold higher response sensitivity than the parental cell line, and the limit of detection was reduced from 1.56 ± 0.17 μM to 0.93 ± 0.22 μM for this subclone. These results indicate that colony isolation using PicoShells, combined with functional screening, provides a practical strategy for improving the sensitivity of insect cell biohybrid sensors.",
+    "journal": "Biosensors & bioelectronics",
+    "publication_date": "2026 Oct 21",
+    "authors": "Nishimoto K, Mimura H, Di Carlo D, Takeuchi S",
+    "doi": "10.1016/j.bios.2026.119354",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42925590/",
+    "discovered_at": "2026-10-25T10:28:59.177261+00:00",
+    "discovered_at_display": "25 Oct 2026, 03:58 PM IST"
+  },
+  {
+    "pmid": "42921412",
+    "title": "Ultrasensitive Geosmin Sensing Using Reusable SERS-Active Porous Silicon Microarray.",
+    "abstract": "Cyanobacteria (blue-green algae) produce geosmin, a volatile organic compound associated with ecological imbalance that adversely affects aquatic organisms by impairing growth and reproduction, weakening immune responses, and reducing aquaculture yields and quality. Herein, we developed a rapid, portable and ultrasensitive approach for geosmin detection based on an aptamer-modified silver-coated porous silicon (Ag-pSi) microarray that serves as a surface-enhanced Raman spectroscopy (SERS) transducer. The Ag-pSi substrate, characterized by a high surface area that efficiently distributed noble metal nanoparticles across the thin film, significantly enhanced Raman scattering, yielding an analytical enhancement factor of 2.17 × 10",
+    "journal": "ACS measurement science au",
+    "publication_date": "2026 Oct 21",
+    "authors": "Singh RK, Jamal A, Shtenberg G",
+    "doi": "10.1021/acsmeasuresciau.6c00177",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42921412/",
+    "discovered_at": "2026-10-25T10:28:59.177261+00:00",
+    "discovered_at_display": "25 Oct 2026, 03:58 PM IST"
+  },
+  {
+    "pmid": "42920870",
+    "title": "Insights into the flavor evolution of braised chicken during six-month storage via sensory evaluation, E-tongue, E-nose, and GC-IMS.",
+    "abstract": "The flavor of braised chicken tends to deteriorate during prolonged storage. This study systematically investigated dynamic changes in the flavor of braised chicken during six-month storage. Sensory and physicochemical analyses revealed a relatively stable appearance and color, but a noticeable deterioration in taste and texture. Odor degraded most significantly. The electronic tongue (E-tongue) detected a taste shift toward decreased umami and richness and increased saltiness. The electronic nose (E-nose) supported the dominant role of odor by revealing a substantial build-up of sulfur- and nitrogen-containing volatiles. Gas chromatography-ion mobility spectrometry analysis identified 67 volatile compounds in braised chicken during storage. Orthogonal partial least squares-discriminant analysis screening identified ten key differential compounds. Among these, octanal, diethyl disulfide, butanoic acid, and 2-furanmethanethiol showed strong correlations with sensory deterioration and served as potential markers of flavor degradation. This study provides a reference for evaluating the edibility and salability of braised chicken during its shelf-life.",
+    "journal": "Food chemistry: X",
+    "publication_date": "2026 Dec",
+    "authors": "Jing L, Huanjia L, Caishuan Y, Zhiwei S, Yujin L et al.",
+    "doi": "10.1016/j.foodchem.2020.128136",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42920870/",
+    "discovered_at": "2026-10-25T10:28:59.177261+00:00",
+    "discovered_at_display": "25 Oct 2026, 03:58 PM IST"
+  },
+  {
     "pmid": "42916564",
     "title": "Decoding the Dynamic Evolution and Metabolic Pathways of Volatile and Non-Volatile Flavors in Prepared Fish Fillets during Boiling: An Integrated Approach of HS-SPME-GC-MS, HS-GC-IMS, E-Nose, and Chemometrics.",
     "abstract": "This study examined how boiling time (0-150 s) affects the flavor of prepared grass carp fillets. Using headspace solid-phase microextraction gas chromatography-mass spectrometry (HS-SPME-GC-MS) and headspace gas chromatography-ion mobility spectrometry (HS-GC-IMS), we identified 146 volatile organic compounds (VOCs), of which 15 were defined as key odorants. Shorter boiling (30-60 s) enhanced the release of volatiles like 1-octen-3-ol and (Z)-4-heptenal, imparting mushroom and fruity notes. The 90 s stage featured nutty and oily aromas from compounds such as 2,5-dimethyl-3-isopropylpyrazine and heptanal. Extended boiling (120-150 s) led to the dominance of sweet and grassy notes from isoeugenol and propionaldehyde. The core free amino acids (FAAs)─aspartic acid (Asp), glutamic acid (Glu), and histidine (His)─shaped the primary taste profile, and VOC formation was closely linked to amino acid and nucleotide metabolism. This work provides a theoretical basis for optimizing the flavor quality of prepared fish products.",
