@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42944785",
+    "title": "Exploratory whole-genome sequencing of cagA-positive Helicobacter pylori-associated gastric biopsies: descriptive observations in COL3A1, ICAM1, and COLEC12.",
+    "abstract": "Helicobacter pylori-associated gastric disease involves sustained inflammation, stromal responses, and extracellular-matrix remodeling, yet genomic observations shared across different clinical categories remain poorly defined. This study aimed to describe variant-associated gene annotations in four cagA-positive gastric-biopsy specimens with different documented clinical and histological findings, without inferring within-patient progression. Whole-genome sequencing (2 × 151 bp; approximately 37.7× mean mappable depth) was performed on gastric-biopsy DNA from four unrelated adults with active gastritis, normal histology with positive H. pylori screening assays, gastric ulcer, and intestinal-type adenocarcinoma. Variant-associated gene sets were annotated by KEGG, Reactome, and Gene Ontology over-representation analysis with within-analysis Benjamini-Hochberg (BH) correction, and term-level outputs were examined for denominator consistency, gene-family representation, and overlapping membership. Across six analysis sets and five annotation collections, 141 BH-significant term occurrences represented 94 distinct database-term pairs. The intersection of significant-term contributors from three principal analysis sets contained 133 genes, including 124 olfactory-receptor genes and nine other genes. COL3A1, ICAM1, and COLEC12 were examined as literature-informed discussion targets. Five of six displayed alleles had global gnomAD-genome frequencies above 20%, whereas ICAM1 rs542476616 was rare globally. No category association was tested. The study describes shared genomic annotations in four cagA-positive gastric biopsies and provides a traceable term-level analysis. COL3A1, ICAM1, and COLEC12 motivate further genotype-confirmed and clinically adjudicated investigation; their recurrence does not establish diagnostic performance or a disease-associated variant effect.",
+    "journal": "Molecular biology reports",
+    "publication_date": "2026 Oct 27",
+    "authors": "Dhyaee NAH, Mahmood SS",
+    "doi": "10.1038/gim.2015.30",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42944785/",
+    "discovered_at": "2026-10-27T21:40:03.706475+00:00",
+    "discovered_at_display": "28 Oct 2026, 03:10 AM IST"
+  },
+  {
     "pmid": "42944508",
     "title": "Isolating the Contributions of Resistance-Ratio Normalization and Humidity Fusion in a Minimal Three-Sensor Electronic Nose.",
     "abstract": "Low-cost metal oxide semiconductor (MOS) electronic noses often combine resistance-ratio (R",
