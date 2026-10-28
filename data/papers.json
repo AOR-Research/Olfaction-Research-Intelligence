@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "42948387",
+    "title": "A novel foam-board-based plasmonic chemosensor towards specific recognition of formaldehyde and acetaldehyde using silver nanoprism reinforced by 1,10-phenanthroline and d-penicillamine: construction of a miniaturized optical device by 3D printer towards rapid pharmaceutical analysis.",
+    "abstract": "Formaldehyde (FA) and acetaldehyde (AA) are highly reactive aldehydes that widely distributed in environmental matrices. Due to their potential toxicity and adverse health effects, the development of sensitive, selective, methods for their determination are of significant importance. But, quantification of FA and AA by conventional method require expensive instruments, sample preparation steps, export operators which load to limitation of its application for",
+    "journal": "RSC advances",
+    "publication_date": "2026 Oct 27",
+    "authors": "Bahavarnia F, Hasanzadeh M, Shadjou N",
+    "doi": "10.1039/d6ra07451k",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42948387/",
+    "discovered_at": "2026-10-28T17:44:03.294033+00:00",
+    "discovered_at_display": "28 Oct 2026, 11:14 PM IST"
+  },
+  {
+    "pmid": "42947978",
+    "title": "Multidimensional characterization of vegetable breads using multisource intelligent sensory technologies and feature-level data fusion.",
+    "abstract": "Food sensory quality is multidimensional, and a single intelligent sensory technique cannot simultaneously characterize color, taste, and odor across multiple dimensions. Multisource intelligent sensory analysis combined with data fusion provides an approach for the objective characterization of multidimensional food sensory characteristics. Control bread (CK) and four vegetable breads prepared with pumpkin (PU), The vegetable juices produced distinct color, taste-response, and volatile-compound characteristics in the breads. The first three electronic-eye principal components explained 91.95% of the variance. PU was dominated by strong yellow and vivid yellow, RP showed a clear orange-yellow appearance, and CE retained a green hue. The first two electronic-tongue principal components explained 90.03% of the variance. PG showed relatively high umami and bitterness response indices, whereas CE showed a relatively high saltiness response index. The first five principal components of the electronic-nose data explained 82.89% of the variance, and 17 volatile compounds were tentatively assigned. PG showed high responses for several fermentation-related volatiles. A peak tentatively assigned to acetone was detected only in RP under the current analytical conditions, whereas peaks tentatively assigned to myrcene and β-phellandrene showed pronounced responses in CE. After feature-level data fusion, the first three principal components explained 80.78% of the variance. Loading analysis showed that multiple latent variables from the electronic eye, electronic tongue, and electronic nose jointly contributed to the multidimensional characterization of the formulations. Breads prepared with different vegetable juices exhibited distinct characteristics in terms of color, taste-response profiles, and volatile-compound profiles. Feature-level fusion of multisource intelligent sensory data enables the joint representation of information from these three instrumental dimensions within a unified analytical framework, providing a methodological framework for the multidimensional characterization of vegetable breads.",
+    "journal": "Frontiers in nutrition",
+    "publication_date": "2026",
+    "authors": "Jiang Y, Yang H, Jian C, Lin Y, Hu E et al.",
+    "doi": "10.3389/fnut.2026.1970901",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42947978/",
+    "discovered_at": "2026-10-28T17:44:03.294033+00:00",
+    "discovered_at_display": "28 Oct 2026, 11:14 PM IST"
+  },
+  {
     "pmid": "42945630",
     "title": "Three-dimensional nanogap substrate for metal-enhanced fluorescence-based ultra-sensitive detection of trace ammonia.",
     "abstract": "High sensitivity and rapid detection of trace ammonia are crucial for environmental monitoring and disease diagnosis. Polydiacetylene (PDA)-based sensors have attracted significant attention due to their fast response; however, weak fluorescence signals under low ammonia concentrations limit their performance. To address this issue, this study further developed a PDA-based ammonia sensing platform based on a three-dimensional (3D) silver nanogap substrate by utilizing the metal-enhanced fluorescence (MEF) effect to enhance the fluorescence response of PDA. Specifically, a nanopillar array with a diameter of 250 nm, a height of 100 nm, and a period of 500 nm was fabricated on a glass slide using ultraviolet nanoimprint lithography. After that, an oxygen plasma treatment was applied to form a nanogap network, and a 75 nm thick silver layer was deposited on the surface via physical vapor deposition (PVD) to create a 3D silver nanogap structure, thus constructing the 3D nanogap substrate. Following this, PDA vesicles were then immobilized on the substrate surface for ammonia sensing. Experimental results demonstrated that, under static sealed-chamber conditions, the 3D nanogap substrate achieved a limit of detection (LOD) of 4.79 ppm for ammonia, calculated using the standard 3σ/k method based on the theoretically estimated ammonia concentration. In addition, the sensor exhibited excellent selectivity toward ammonia compared with volatile organic compounds such as toluene, ethanol, and methanol, demonstrating great potential for trace ammonia detection applications.",
