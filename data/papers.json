@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42956747",
+    "title": "Microbial products trigger chemosensory dialogues through intestinal G protein-coupled receptors.",
+    "abstract": "Organismal reactions to changing environmental conditions require information relays that sense cues and elicit appropriate responses. G protein-coupled receptors (GPCRs), including olfactory receptors, comprise the largest receptor family that recognizes environmental cues, consisting of over 800 genes in the human genome. Here, by screening libraries of gut metabolites and natural products using a multiplexed GPCR reporter system, GPCR-seq, we reveal multiple intestinal chemosensory pathways. Among these, we determine that a cyclic fatty acid promotes serotonin production from enterochromaffin cells via olfactory receptor OR51E1. Two additional gut microbe-derived molecules, a β-carboline and 6-hydroxynicotinic acid (6-HNA), function as agonists for GPR35, a receptor linked to inflammatory bowel disease (IBD). The IBD-associated GPR35 risk variant, T108M, shows aberrant responses to 6-HNA, while Enterocloster bolteae, a species increased in IBD, generates high levels of 6-HNA. This approach provides an accelerated path to mapping critical chemosensory pathways and host physiological responses.",
+    "journal": "Cell host & microbe",
+    "publication_date": "2026 Oct 29",
+    "authors": "Kadoki M, Nanki K, Szamosvári D, Mohamed AMT, Stražar M et al.",
+    "doi": "10.1016/j.chom.2026.10.002",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42956747/",
+    "discovered_at": "2026-10-30T03:49:10.748469+00:00",
+    "discovered_at_display": "30 Oct 2026, 09:19 AM IST"
+  },
+  {
     "pmid": "42948387",
     "title": "A novel foam-board-based plasmonic chemosensor towards specific recognition of formaldehyde and acetaldehyde using silver nanoprism reinforced by 1,10-phenanthroline and d-penicillamine: construction of a miniaturized optical device by 3D printer towards rapid pharmaceutical analysis.",
     "abstract": "Formaldehyde (FA) and acetaldehyde (AA) are highly reactive aldehydes that widely distributed in environmental matrices. Due to their potential toxicity and adverse health effects, the development of sensitive, selective, methods for their determination are of significant importance. But, quantification of FA and AA by conventional method require expensive instruments, sample preparation steps, export operators which load to limitation of its application for",
