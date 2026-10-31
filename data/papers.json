@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42962626",
+    "title": "Lipid contribution to volatile formation in paper-wrapped Chinese bacon under different smoking temperatures and durations.",
+    "abstract": "This study explored the lipid contribution to volatile formation in paper-wrapped Chinese bacon under the influence of different smoking temperatures, alongside the dynamic changes in lipid profiles during the smoking process. Electronic nose and tongue analyses effectively distinguished the instrumental taste/odor pattern across different temperatures. Specifically, cold smoking (≤ 30 °C) significantly enhanced smoky aroma of paper-wrapped bacon by promoting the accumulation of alcohols, aldehydes, and ketones in the later stages, while warm smoking (45 ± 5 °C) effectively inhibited bitterness and astringency. Gas chromatography-mass spectrometry identified 94 volatile compounds, with the cold-smoked group exhibiting a higher total volatile content than the warm-smoked group throughout the process. Among the 30 differential volatile compounds identified (VIP > 1), Strecker aldehydes and smoke-derived phenolics predominated in warm-smoked samples, whereas creamy ketones and terpenoids were enriched more in cold-smoked ones. Lipidomics detected 2862 lipid molecules, primarily including triglycerides, phospholipids, and sphingolipids. Linear mixed model analysis revealed significant main and interactive effects of smoking temperature and duration on the abundances of key lipids and volatile compounds (P < 0.05), with cold and warm smoking driving divergent temporal trajectories. Furthermore, three core volatile formation pathways were clarified, including glyceride, phospholipid, and sphingolipid metabolism, alongside smoke adsorption. These findings elucidate the molecular mechanisms of smoking temperature regulating the aroma development of paper-wrapped bacon, thus providing a theoretical basis for optimizing the processing technology of smoked meat products.",
+    "journal": "Meat science",
+    "publication_date": "2026 Oct 26",
+    "authors": "Yao M, Deng N, Ye L, Hou X, Wang H et al.",
+    "doi": "10.1016/j.meatsci.2026.110245",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42962626/",
+    "discovered_at": "2026-10-31T03:32:20.993524+00:00",
+    "discovered_at_display": "31 Oct 2026, 09:02 AM IST"
+  },
+  {
     "pmid": "42960179",
     "title": "CRISPR/Cas9-mediated knock-out of",
     "abstract": "The specificity of the olfactory system in the brain is determined not only by the expression of odorant receptor genes but also by the specific neural circuit assembly within the antennal lobe (AL). To investigate the developmental role of",
