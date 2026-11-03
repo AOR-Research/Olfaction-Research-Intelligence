@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42972810",
+    "title": "Optically-heated Pt/WO",
+    "abstract": "Hydrogen leaks are hard to detect by smell or sight alone, and its wide flammability range in air makes fast detection critical for safety. Hydrogen sensors based on fiber Bragg gratings (FBGs) coated with platinum-loaded tungsten trioxide (Pt/WO",
+    "journal": "Optics express",
+    "publication_date": "2026 Nov 02",
+    "authors": "Romero-Cabrera AI, Hartmann K, Nieuwland R, Chah K, Caucheteur C",
+    "doi": "10.1364/OE.614662",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42972810/",
+    "discovered_at": "2026-11-03T13:23:09.985144+00:00",
+    "discovered_at_display": "03 Nov 2026, 06:53 PM IST"
+  },
+  {
     "pmid": "42970311",
     "title": "Olfactory Receptor 51E2 Activation by β-Ionone Induces a Senescence-Like Phenotype and Increases Susceptibility to Senolytic Treatment in Colorectal Cancer.",
     "abstract": "Olfactory receptor 51E2 (OR51E2) is markedly downregulated in colorectal cancer (CRC), yet its functional activation by its natural agonist, β-ionone, suppresses CRC cell growth. In this study, we investigated the tumor-suppressive effects of β-ionone-mediated OR51E2 activation using human CRC cell lines (SW480, SW620, and RKO) and patient-derived organoids (PDOs). We demonstrate that β-ionone treatment stimulates intracellular calcium levels in an OR51E2-dependent manner, upregulating MAPK-directed phosphatases (DUSP1/2/4 and PPP1CA). This calcium-dependent phosphatase activation suppresses the MEK1/2-ERK1/2 signaling axis, leading to G0/G1 cell cycle arrest via the downregulation of CDK2/4/6 and cyclin A/D1. Concurrently, OR51E2 activation induces a senescence-like phenotype, evidenced by increased senescence-associated β-galactosidase activity, chromatin remodeling (reduced LAMIN B1 and increased H3K27me3), and upregulated p16/p21 expression alongside senescence-associated secretory phenotype (SASP) factors. These phenotypic and mechanistic findings were fully recapitulated in CRC-PDOs representing distinct clinical subtypes. Crucially, the residual senescence-like cell population showed increased susceptibility to dasatinib plus quercetin (DQ), which reduced senescence-associated markers and increased apoptosis. Collectively, this study demonstrates that OR51E2 activation coordinates a heterogeneous cell-fate decision encompassing both apoptosis and a senescence-like phenotype. Our findings highlight ectopic olfactory receptor signaling as an underexplored mechanism of tumor suppression and provide in vitro evidence for a sequential approach in CRC in which β-ionone-mediated OR51E2 activation induces a senescence-like state followed by senolytic treatment.",
