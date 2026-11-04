@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "42978777",
+    "title": "Prediction of the binding modes between key differential flavor compounds in tobacco leaves at different maturity stages and the olfactory receptor OR1D2.",
+    "abstract": "Leaf maturity is a critical determinant of the sensory quality of tobacco. To elucidate the microstructural characteristics of Yunyan 87 tobacco at distinct maturity stages and the perception mechanisms of key differential flavor compounds mediated by the olfactory receptor OR1D2. This study combined scanning electron microscopy (SEM) and untargeted metabolomics with molecular docking and molecular dynamics (MD) simulations to elucidate the binding mechanisms of key flavor compounds to the olfactory receptor OR1D2. The results indicated that as maturity progressed, the epidermal cell arrangement transitioned from compact to loose, accompanied by an increase in intercellular spaces. Concurrently, the surface microstructure evolved from gentle striations at the unripe stage to distinct ridges or rugae at the mature and overripe stages. Metabolomic analysis revealed that 226 metabolites were identified in both unripe (QS) and mature (GS) leaves, whereas the number increased to 233 in overripe (CS) leaves. A total of 10 differentially abundant metabolites were screened across the three groups. Notably, the contents of key aroma compounds including γ-valerolactone, benzaldehyde, β-cyclocitral, and isopentenol were significantly higher in mature leaves compared to unripe and overripe samples. Molecular docking analysis demonstrated significant variations in binding affinity between the 10 differential flavor compounds and the OR1D2 receptor, with β-cyclocitral exhibiting the strongest binding energy. Molecular dynamics simulation further confirmed the stable binding complex, revealing that the interaction was primarily driven by van der Waals forces, supplemented by electrostatic and hydrophobic interactions. Collectively, these findings indicate that harvesting Yunyan 87 at the mature stage is optimal for maximizing quality. This study provides a theoretical foundation for the precise regulation of harvesting maturity in tobacco production.",
+    "journal": "Frontiers in plant science",
+    "publication_date": "2026",
+    "authors": "Hu X, Xu W, Zhang L, Yang S, Pan S et al.",
+    "doi": "10.3389/fpls.2026.1894360",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42978777/",
+    "discovered_at": "2026-11-04T13:34:36.795431+00:00",
+    "discovered_at_display": "04 Nov 2026, 07:04 PM IST"
+  },
+  {
+    "pmid": "42978012",
+    "title": "Integrated multi-omics analysis deciphers the molecular mechanisms underlying the characteristic volatile flavor of Meishan pork.",
+    "abstract": "The Meishan pig is a celebrated indigenous Chinese swine breed renowned for its distinctive flavor profile. However, the specific signature flavor compounds and the molecular mechanisms underlying their formation remain largely uncharacterized. This study aimed to comprehensively profile the volatile flavor compounds across five pig breeds and decipher the molecular basis of the characteristic flavor of Meishan pork. Comparative analysis combining electronic nose, headspace solid-phase microextraction coupled with gas chromatography-mass spectrometry (HS-SPME-GC-MS), and relative odor activity value calculations revealed that Meishan pork contained significantly higher levels of four key aroma compounds: hexanal, nonanal, 2-pentylfuran, and (E,E)-2,4-nonadienal. Integrated metabolomic and transcriptomic analyses identified oleic acid and α-linolenic acid as critical precursors and highlighted the high expression of the arachidonate 5-lipoxygenase gene (ALOX5) in Meishan pigs. Heating experiments confirmed that these fatty acids yield characteristic flavor compounds upon thermal oxidation. Furthermore, functional studies demonstrated that ALOX5 catalyzes the conversion of these precursors into flavor aldehydes. The distinctive flavor of Meishan pork is associated with a dual mechanism: thermal oxidation of abundant precursors during cooking, and enhanced enzymatic oxidation prior to cooking resulting from constitutively high ALOX5 expression. By deciphering the flavor formation mechanism from metabolic precursors to enzyme-catalyzed conversion, this investigation provides a framework for elucidating meat flavor chemistry and offers potential targets for breeding strategies aimed at improving pork flavor.",
+    "journal": "Journal of animal science and biotechnology",
+    "publication_date": "2026 Nov 04",
+    "authors": "Sun H, Yang Z, Wang H, Du P, Wu W et al.",
+    "doi": "10.3390/nu13041164",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42978012/",
+    "discovered_at": "2026-11-04T13:34:36.795431+00:00",
+    "discovered_at_display": "04 Nov 2026, 07:04 PM IST"
+  },
+  {
     "pmid": "42972810",
     "title": "Optically-heated Pt/WO",
     "abstract": "Hydrogen leaks are hard to detect by smell or sight alone, and its wide flammability range in air makes fast detection critical for safety. Hydrogen sensors based on fiber Bragg gratings (FBGs) coated with platinum-loaded tungsten trioxide (Pt/WO",
