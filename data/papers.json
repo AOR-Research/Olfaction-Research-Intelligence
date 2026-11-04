@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "42980450",
+    "title": "Receptor-Selective and Concentration-Dependent Responses to Vanillin-Ethyl Vanillin Mixtures: An Integrated Sensory and Statistical-Physics Analysis.",
+    "abstract": "Vanillin (V) and ethyl vanillin (EV) are frequently combined in flavor formulations, but composition-dependent sensory profiles and olfactory receptor responses remain unclear. Sensory evaluation showed stronger creamy notes in EV-rich mixtures and stronger vanilla and sweet notes in V-rich mixtures compared with the 1:1 mixture. Among four human olfactory receptors tested in HEK293 cells, OR2J2 and OR10G4 responded most strongly. OR2J2 showed no consistent supra-additivity. OR10G4 exhibited supra-additivity with one component fixed at 100.00-500.00 μmol/L and the other varied within direction-dependent low-to-intermediate ranges of 1.95-500.00 μmol/L, shifting to subadditivity when the fixed component reached 1000.00 μmol/L. Statistical-physics monolayer modeling suggested that receptor selectivity reflected stronger energetic stabilization of V by OR2J2 and greater configurational adaptability of EV within OR10G4. Single-ligand, simultaneous dual-ligand, and sequential docking revealed vertically separated co-occupancy in OR2J2 but side-by-side, order-dependent accommodation in OR10G4. These findings advance understanding of odorant mixture perception and inform future formulation studies.",
+    "journal": "Journal of agricultural and food chemistry",
+    "publication_date": "2026 Nov 04",
+    "authors": "Yan Q, Quan Q, Zhao G, Xie F, Nie C et al.",
+    "doi": "10.1021/acs.jafc.6c06124",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42980450/",
+    "discovered_at": "2026-11-04T23:02:27.993228+00:00",
+    "discovered_at_display": "05 Nov 2026, 04:32 AM IST"
+  },
+  {
+    "pmid": "42980444",
+    "title": "Olfactory Perception Regularities of Structurally Related γ-Lactones: Insights from OR2W1 Selectivity.",
+    "abstract": "Olfactory receptor recognition of odorants is generally considered to involve dynamic receptor-ligand interactions rather than a rigid lock-and-key mechanism. To investigate how structurally related odorants are differentially recognized, a homologous series of γ-lactones differing only in alkyl side-chain length was systematically evaluated using the human olfactory receptor OR2W1. Cellular assays demonstrated that OR2W1 activation initially increased and subsequently decreased with increasing side-chain length, with γ-nonalactone producing the strongest concentration-dependent response (EC50 = 40.27 ± 2.33 μM). Molecular modeling suggested that γ-nonalactone adopted the most favorable binding mode and exhibited the lowest predicted binding free energy toward OR2W1. Site-directed mutagenesis of representative binding-site residues further supported the functional evidence of the predicted receptor-ligand interactions. Collectively, these results suggest that the structural adaptability of the OR2W1 binding pocket contributes to the differential recognition of structurally related γ-lactones within a limited physicochemical space. This study provides molecular-level evidence for the structure-activity relationship governing γ-lactone recognition by OR2W1 and offers mechanistic insights into odorant recognition by broadly tuned human olfactory receptors.",
+    "journal": "Journal of agricultural and food chemistry",
+    "publication_date": "2026 Nov 04",
+    "authors": "Hu B, Lv H, Zheng H, Jiang Y, Ma N et al.",
+    "doi": "10.1021/acs.jafc.6c10444",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42980444/",
+    "discovered_at": "2026-11-04T23:02:27.993228+00:00",
+    "discovered_at_display": "05 Nov 2026, 04:32 AM IST"
+  },
+  {
     "pmid": "42978777",
     "title": "Prediction of the binding modes between key differential flavor compounds in tobacco leaves at different maturity stages and the olfactory receptor OR1D2.",
     "abstract": "Leaf maturity is a critical determinant of the sensory quality of tobacco. To elucidate the microstructural characteristics of Yunyan 87 tobacco at distinct maturity stages and the perception mechanisms of key differential flavor compounds mediated by the olfactory receptor OR1D2. This study combined scanning electron microscopy (SEM) and untargeted metabolomics with molecular docking and molecular dynamics (MD) simulations to elucidate the binding mechanisms of key flavor compounds to the olfactory receptor OR1D2. The results indicated that as maturity progressed, the epidermal cell arrangement transitioned from compact to loose, accompanied by an increase in intercellular spaces. Concurrently, the surface microstructure evolved from gentle striations at the unripe stage to distinct ridges or rugae at the mature and overripe stages. Metabolomic analysis revealed that 226 metabolites were identified in both unripe (QS) and mature (GS) leaves, whereas the number increased to 233 in overripe (CS) leaves. A total of 10 differentially abundant metabolites were screened across the three groups. Notably, the contents of key aroma compounds including γ-valerolactone, benzaldehyde, β-cyclocitral, and isopentenol were significantly higher in mature leaves compared to unripe and overripe samples. Molecular docking analysis demonstrated significant variations in binding affinity between the 10 differential flavor compounds and the OR1D2 receptor, with β-cyclocitral exhibiting the strongest binding energy. Molecular dynamics simulation further confirmed the stable binding complex, revealing that the interaction was primarily driven by van der Waals forces, supplemented by electrostatic and hydrophobic interactions. Collectively, these findings indicate that harvesting Yunyan 87 at the mature stage is optimal for maximizing quality. This study provides a theoretical foundation for the precise regulation of harvesting maturity in tobacco production.",
