@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42989344",
+    "title": "Diffuse mild TBI reveals spatially selective vulnerability from early olfactory disruption to delayed substantia nigra involvement.",
+    "abstract": "Traumatic brain injury (TBI) is associated with an increased risk of Parkinson's disease (PD), yet the anatomical routes through which diffuse injury confers selective neuronal vulnerability remain poorly defined. The olfactory system occupies a critical peripheral-central interface: primary olfactory neurons project unmyelinated axons through the cribriform plate into the olfactory bulb, rendering this pathway susceptible to mechanical stress while overlapping with one of the earliest sites of α-synuclein pathology in PD. Here, we tested whether diffuse mild TBI produces spatially and temporally distinct neuropathological responses across the olfactory-nigrostriatal axis. Adult C57BL/6 mice underwent mild TBI using the Closed Head Impact Model of Rotational Acceleration and were assessed at 24 h, 1 month, and 6 months post-injury. Holocranioimmunohistochemistry preserving anatomical continuity between the olfactory epithelium (OE) and olfactory bulb enabled integrated analysis of peripheral and central structures. Diffuse injury produced acute axonal disruption of olfactory receptor neurons and was accompanied by transient immune cell accumulation and altered neuronal turnover in the OE. These changes largely resolved by one month, although a modest reduction in mature receptor neurons persisted. In contrast, central olfactory regions demonstrated sustained microglial elevation together with delayed increases in phosphorylated α-synuclein occurring without corresponding changes in total α-synuclein expression. Delayed vulnerability emerged within the substantia nigra, where dopaminergic neuron density was reduced at six months despite preserved striatal terminals. This was accompanied by increased total α-synuclein in the absence of phosphorylation at serine-129, consistent with altered protein handling rather than phosphorylation-dominant aggregation. Together, diffuse mild TBI produced early peripheral disruption followed by persistent region-specific neuroimmune activation and divergent alterations in α-synuclein biology, culminating in delayed nigral susceptibility without evidence of progressive synucleinopathy. These findings identify the olfactory-nigrostriatal axis as a site of trauma-related vulnerability and provide a neuropathological framework linking diffuse injury to processes relevant to later neurodegenerative disease.",
+    "journal": "Acta neuropathologica communications",
+    "publication_date": "2026 Aug 10",
+    "authors": "Edwards S, Arthur E, Collins-Praino L, Corrigan F",
+    "doi": "10.1093/brain/awac485",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42989344/",
+    "discovered_at": "2026-11-06T13:31:57.393743+00:00",
+    "discovered_at_display": "06 Nov 2026, 07:01 PM IST"
+  },
+  {
     "pmid": "42988747",
     "title": "Rapid Cataluminescence Sensing of Acetonitrile Using Urchin-Like Hierarchical CuCo",
     "abstract": "Acetonitrile (CH",
