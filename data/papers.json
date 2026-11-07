@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "42995009",
+    "title": "Flaxseed kernel as an alternative substrate for novel natto fermentation: metabolic characteristics and flavor formation mechanism.",
+    "abstract": "Natto is traditionally produced from soybeans, but exploring novel substrates can expand its nutritional and organoleptic diversity. This study investigated the feasibility of utilizing flaxseed as an alternative substrate for novel natto production and elucidated the key metabolic and volatile flavor formation mechanisms during fermentation. Multi-sensory and chemical analyses, including electronic nose, electronic tongue, free amino acid profiling, gas chromatography-mass spectrometry (GC-MS), and headspace solid-phase microextraction coupled with gas chromatography-mass spectrometry (HS-SPME-GC-MS), demonstrated that fermentation significantly transformed the flavor and nutritional characteristics of flaxseed natto. Fermentation reduced sweetness while markedly enhancing umami intensity and richness, driven by a sharp increase in total free amino acids from 1.52 to 79.56 g kg Flaxseed represents a promising alternative substrate for producing novel natto with enhanced umami flavor, high α-linolenic acid content, and distinct volatile profiles. These findings provide critical insights into the aroma formation mechanisms of fermented flaxseed products, laying a scientific basis for the high-value utilization of flaxseed in functional food development. © 2026 Society of Chemical Industry.",
+    "journal": "Journal of the science of food and agriculture",
+    "publication_date": "2026 Nov 06",
+    "authors": "Wang E, Zhang S, Li Y, Zhang W, Gu B et al.",
+    "doi": "10.1002/jsfa.71229",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42995009/",
+    "discovered_at": "2026-11-07T12:12:49.221455+00:00",
+    "discovered_at_display": "07 Nov 2026, 05:42 PM IST"
+  },
+  {
+    "pmid": "42994317",
+    "title": "Headspace GC-MS screening of MOS-VOC interfacial reactivity for rapid and resource-efficient gas-sensing metal oxides evaluation.",
+    "abstract": "Traditional research on metal oxide semiconductor (MOS) gas sensors predominantly depends on physical device fabrication and repetitive empirical trial screening, which results in lengthy research cycles and substantial consumption of materials and volatile organic compound (VOC) standards. For integrating the development concept of green chemistry, this work proposes a rapid and resource-efficient analytical strategy based on headspace gas chromatography-mass spectrometry (HS-GC-MS) for the preliminary screening of MOS gas-sensing performance toward multicomponent VOCs and in-depth exploration of underlying sensing mechanisms. By simultaneously monitoring the relative consumption of individual VOCs in mixtures, the proposed approach enables high-throughput evaluation of MOS-VOC interfacial reactivity without prior sensor fabrication. Cu-doped SnO",
+    "journal": "Talanta",
+    "publication_date": "2026 Nov 03",
+    "authors": "Sun Y, Xu YC, Sun XL, Yu WH, Song XY et al.",
+    "doi": "10.1016/j.talanta.2026.130905",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42994317/",
+    "discovered_at": "2026-11-07T12:12:49.221455+00:00",
+    "discovered_at_display": "07 Nov 2026, 05:42 PM IST"
+  },
+  {
     "pmid": "42993565",
     "title": "Respiratory phase orchestrates human olfactory cortical dynamics.",
     "abstract": "Olfaction is fundamental to perception, memory, and emotion, yet the neural basis of human odor processing remains poorly understood. We demonstrate that odor-evoked brain activity is organized by respiratory phase-not absolute time-revealing that natural breathing structures olfactory cortical dynamics. Using simultaneous nasal respiration and electroencephalography recordings in [Formula: see text] participants, we delivered naturalistic odors (peppermint, oregano, and grapefruit) synchronized to individual breathing cycles. Odor presentation elicited respiratory phase-locked event-related spectral perturbations (RPL-ERSPs) in frontal and temporal regions, emerging during the first breath after stimulus onset. The most discriminative neural signatures were theta-band activity during inhalation and alpha-band activity during exhalation, patterns that were obscured in traditional time-locked analyses due to natural variability in breath duration. Leave-one-subject-out cross-validation of RPL-ERSPs achieved reliable odor detection (peppermint: AUC [Formula: see text] 0.79; oregano: AUC [Formula: see text] 0.67; grapefruit: AUC [Formula: see text] 0.62), establishing that phase-locked features generalize across individuals. To connect neural responses to perceptual experience without relying on odor naming-which can be disproportionately impaired in some populations-we quantified odor recognition using free-response descriptions scored with a semantic-similarity approach. Behavioral recognition strength paralleled the neural decoding hierarchy across odors, establishing the perceptual validity of RPL-ERSPs. RPL-ERSPs revealed rapid habituation, with decoding performance declining over repeated presentations, due to selective degradation of the most informative phase-locked features. These findings establish respiratory rhythm as a temporal scaffold for human olfactory cortical processing, positioning RPL-ERSPs as a sensitive, task-free approach for assessing olfactory function. We provide an open-source, respiration-synchronized olfactometer design to enable replication and adoption.",
