@@ -1,5 +1,53 @@
 [
   {
+    "pmid": "42997820",
+    "title": "Integrating",
+    "abstract": "Wampee (",
+    "journal": "Food chemistry: X",
+    "publication_date": "2026 Dec",
+    "authors": "Li Q, Zhang C, Xu R, Zhu G, Chen Y et al.",
+    "doi": "10.1016/j.fochx.2026.104660",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42997820/",
+    "discovered_at": "2026-11-08T12:32:52.076760+00:00",
+    "discovered_at_display": "08 Nov 2026, 06:02 PM IST"
+  },
+  {
+    "pmid": "42997700",
+    "title": "Saliva gas analysis method for non-invasive detection of diseased organ.",
+    "abstract": "Saliva contains volatile organic compounds (VOCs) that reflect metabolic activity and can be indicative of underlying health conditions. Saliva contains a variety of biomarkers, including DNA, RNA, proteins, enzymes, hormones and metabolites, making it a valuable and non-invasive sample for medical diagnostics. The dis-functioning of liver, kidney, digestion system (stomach) and oral health results in leaving traces of VOCs in saliva. This is often refereed as mouth odour or halitosis. This paper discusses a non-invasive method to identify diseased organ from saliva gas analysis. An electronic sensor array comprising of sensors for sensing conductivity, oxygen, methane and ammonia gas is fabricated for conducting analysis of gases evolving from saliva sample. The quantity of these gases is compared with a predetermined threshold to identify the diseased organ. This analysis is compared with the pathology lab report for validation purpose.•Being non-invasive it avoids discomfort of blood draws, making it ideal for continuous monitoring.•Salivary gas bypasses respiratory variables of traditional breath analyser tests.•This method assist physicians for by and large diagnosis of diseased organ.",
+    "journal": "MethodsX",
+    "publication_date": "2026 Dec",
+    "authors": "Nalawade V, Bairagi VK",
+    "doi": "10.1016/j.mex.2026.104210",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42997700/",
+    "discovered_at": "2026-11-08T12:32:52.076760+00:00",
+    "discovered_at_display": "08 Nov 2026, 06:02 PM IST"
+  },
+  {
+    "pmid": "42997670",
+    "title": "Geographical flavor fingerprinting of",
+    "abstract": "The geographical variation in the distinctive flavor of",
+    "journal": "Food chemistry: X",
+    "publication_date": "2026 Dec",
+    "authors": "Song L, Yang S, Yang S, Yan R, Wang F et al.",
+    "doi": "10.1016/j.fochx.2026.104709",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42997670/",
+    "discovered_at": "2026-11-08T12:32:52.076760+00:00",
+    "discovered_at_display": "08 Nov 2026, 06:02 PM IST"
+  },
+  {
+    "pmid": "42995164",
+    "title": "Ionic Liquid-Functionalized CNT Electrochemical Platform Governed by a Dual-Path Sensing Mechanism for Versatile VOC Detection.",
+    "abstract": "Room-temperature ionic liquids (RTILs) have garnered significant attention as advanced electrolytes for electrochemical gas sensors owing to their negligible volatility and wide electrochemical windows. However, their application in detecting volatile organic compounds (VOCs) is constrained by high viscosity (limiting mass transport) and the sluggish electrooxidation kinetics of most VOCs. Supported ionic liquid phase (SILP) materials, which immobilize RTILs on porous supports to amplify the gas-liquid interface, present a promising yet underexplored avenue for addressing these challenges. Herein, we develop a novel electrochemical platform configured with high-purity semiconducting carbon nanotube (CNT) films serving as both working electrodes and scaffolds to immobilize RTILs to construct a nanostructured SILP electrolyte. This architecture simultaneously maximizes the active gas-liquid interface, minimizes the gas diffusion distance, and ensures efficient charge transport. The platform enables quantitative detection of ethanol and isopropanol, exhibiting well-defined linear responses from 0-800 ppm and 0-600 ppm, respectively, with distinctive non-monotonic patterns at higher concentrations. Mechanistic investigations reveal that the sensing process diverges from conventional faradaic electrochemistry and is instead governed by a dual-path mechanism: competitive adsorption between oxygen and VOC molecules at the SILP surface, coupled with VOC absorption into the bulk phase. This unique mechanism, which circumvents the limitations of direct electrooxidation by exploiting distinct interactions between VOCs and the SILP, provides inherent discriminative capability. Consequently, our work establishes the CNT-SILP system as a versatile, miniaturization-ready platform for room-temperature VOC sensing and paves the way for novel intelligent gas sensors.",
+    "journal": "ACS sensors",
+    "publication_date": "2026 Nov 09",
+    "authors": "Li H, Guo Y, Feng Q, He R, Yin Z et al.",
+    "doi": "10.1021/acssensors.6c01205",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42995164/",
+    "discovered_at": "2026-11-08T12:32:52.076760+00:00",
+    "discovered_at_display": "08 Nov 2026, 06:02 PM IST"
+  },
+  {
     "pmid": "42995009",
     "title": "Flaxseed kernel as an alternative substrate for novel natto fermentation: metabolic characteristics and flavor formation mechanism.",
     "abstract": "Natto is traditionally produced from soybeans, but exploring novel substrates can expand its nutritional and organoleptic diversity. This study investigated the feasibility of utilizing flaxseed as an alternative substrate for novel natto production and elucidated the key metabolic and volatile flavor formation mechanisms during fermentation. Multi-sensory and chemical analyses, including electronic nose, electronic tongue, free amino acid profiling, gas chromatography-mass spectrometry (GC-MS), and headspace solid-phase microextraction coupled with gas chromatography-mass spectrometry (HS-SPME-GC-MS), demonstrated that fermentation significantly transformed the flavor and nutritional characteristics of flaxseed natto. Fermentation reduced sweetness while markedly enhancing umami intensity and richness, driven by a sharp increase in total free amino acids from 1.52 to 79.56 g kg Flaxseed represents a promising alternative substrate for producing novel natto with enhanced umami flavor, high α-linolenic acid content, and distinct volatile profiles. These findings provide critical insights into the aroma formation mechanisms of fermented flaxseed products, laying a scientific basis for the high-value utilization of flaxseed in functional food development. © 2026 Society of Chemical Industry.",
