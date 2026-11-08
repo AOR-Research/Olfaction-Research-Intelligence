@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "42999574",
+    "title": "Cheese flavor formation in cream-enriched yogurt: Molecular characterization of lipid flavour precursors, aroma-active compounds, and molecular docking analysis.",
+    "abstract": "This study investigated lipid degradation and flavor development during the fermentation of cream-enriched yogurt (supplemented with 30% cream). Sensory evaluation revealed that \"cheesy odor\" and \"nutty odor\" increased progressively, reaching peak scores at 24 h, while extended fermentation (30 h) led to a decline in acceptability due to excessive acidity. Electronic nose analysis confirmed a significant evolution of the overall aroma profile, with nitrogen oxides, sulfides, alcohols, aldehydes, and ketones contributing markedly to the odor signature, especially after 24 h of fermentation. HS-SPME-GC-MS analysis identified 258 volatile compounds, primarily aldehydes and esters. Ten key compounds, including acetoin, decanal, nonanoic acid, and 2-octanone, were characterized as aroma contributors. Acetoin and decanal have been identified as key aroma-active compounds, with odor activity values (OAV) of 251.45 and 79.29, respectively. Molecular docking revealed that acetoin and decanal bind to six olfactory receptors through hydrogen bonds and alkyl hydrophobic interactions, with binding energies ranging from -3.6 to -5.0 kcal/mol. These computational predictions provide a hypothesis for future experimental validation. GC-MS further demonstrated that palmitic, stearic, and oleic acids were the dominant free fatty acids. Correlation analysis revealed significant positive correlations between aroma contributors (i.e., acetoin, nonanoic acid, butanoic acid, 2-octanone, hexanoic acid) and specific fatty acids (i.e., arachidic acid, linolenic acid, behenic acid) (",
+    "journal": "Current research in food science",
+    "publication_date": "2026",
+    "authors": "Wei G, Zhang W, Chai Y, Wang T, Li Z et al.",
+    "doi": "10.1016/j.crfs.2026.101496",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42999574/",
+    "discovered_at": "2026-11-08T21:31:04.371332+00:00",
+    "discovered_at_display": "09 Nov 2026, 03:01 AM IST"
+  },
+  {
     "pmid": "42997820",
     "title": "Integrating",
     "abstract": "Wampee (",
