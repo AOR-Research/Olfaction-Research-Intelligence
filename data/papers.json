@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "43003497",
+    "title": "A Simple and Rapid Cataluminescence Strategy for Highly Selective Detection of Diethyl Ether Based on Metal-Free g-C₃N₄.",
+    "abstract": "The development of selective and low-cost sensing strategies for volatile organic compounds (VOCs) is of significant importance for environmental monitoring, workplace safety, and public health. Herein, we report a simple and efficient cataluminescence (CTL) sensor for diethyl ether detection using graphitic carbon nitride (g-C",
+    "journal": "Luminescence : the journal of biological and chemical luminescence",
+    "publication_date": "2026 Nov",
+    "authors": "Zou R, Zhao Y, Cheng J",
+    "doi": "10.1002/bio.70679",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43003497/",
+    "discovered_at": "2026-11-10T14:02:26.506449+00:00",
+    "discovered_at_display": "10 Nov 2026, 07:32 PM IST"
+  },
+  {
+    "pmid": "43002940",
+    "title": "Deciphering flavor mechanisms of Antarctic krill condiments during composite processing via flavoromics and a visual artificial intelligence system.",
+    "abstract": "Antarctic krill (*Euphausia superba*) has a biomass >536 million tonnes and 60%-80% protein, yet >90% is used for low-value products due to strong off-odors. The flavor formation mechanisms during composite processing (enzymatic digestion-Maillard reaction-aging) remain unclear. We integrated sensory evaluation, E-nose, GC-IMS, GC-MS, and ROAV analysis with an AMSO machine learning model to decode flavor transformation across five stages. Among 183 volatiles, 24 key aroma compounds (ROAV ≥1) were identified. The Maillard reaction increased nitrogen-containing compounds (145 → 3606 mg/kg) and pyrazines driving roasted notes, while reducing off-odors like trimethylamine. Four putative metabolic pathways governed flavor evolution. The AMSO model achieved 100% classification accuracy (LOOCV: 93.3%; bootstrap 95% CI: 93.3-100%) using only 37 SHAP-ROAV-selected features. A dedicated Antarctic krill flavor database (276 compounds) and a visual AI system (AK-FAI) enable intelligent process design for high-value krill products. Aroma reconstitution experiments further confirmed the identified key aroma compounds.",
+    "journal": "Food chemistry",
+    "publication_date": "2026 Nov 04",
+    "authors": "Lu K, Ma Y, Liu X, Yang M, Xie W",
+    "doi": "10.1016/j.foodchem.2026.151930",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43002940/",
+    "discovered_at": "2026-11-10T14:02:26.506449+00:00",
+    "discovered_at_display": "10 Nov 2026, 07:32 PM IST"
+  },
+  {
     "pmid": "42999574",
     "title": "Cheese flavor formation in cream-enriched yogurt: Molecular characterization of lipid flavour precursors, aroma-active compounds, and molecular docking analysis.",
     "abstract": "This study investigated lipid degradation and flavor development during the fermentation of cream-enriched yogurt (supplemented with 30% cream). Sensory evaluation revealed that \"cheesy odor\" and \"nutty odor\" increased progressively, reaching peak scores at 24 h, while extended fermentation (30 h) led to a decline in acceptability due to excessive acidity. Electronic nose analysis confirmed a significant evolution of the overall aroma profile, with nitrogen oxides, sulfides, alcohols, aldehydes, and ketones contributing markedly to the odor signature, especially after 24 h of fermentation. HS-SPME-GC-MS analysis identified 258 volatile compounds, primarily aldehydes and esters. Ten key compounds, including acetoin, decanal, nonanoic acid, and 2-octanone, were characterized as aroma contributors. Acetoin and decanal have been identified as key aroma-active compounds, with odor activity values (OAV) of 251.45 and 79.29, respectively. Molecular docking revealed that acetoin and decanal bind to six olfactory receptors through hydrogen bonds and alkyl hydrophobic interactions, with binding energies ranging from -3.6 to -5.0 kcal/mol. These computational predictions provide a hypothesis for future experimental validation. GC-MS further demonstrated that palmitic, stearic, and oleic acids were the dominant free fatty acids. Correlation analysis revealed significant positive correlations between aroma contributors (i.e., acetoin, nonanoic acid, butanoic acid, 2-octanone, hexanoic acid) and specific fatty acids (i.e., arachidic acid, linolenic acid, behenic acid) (",
