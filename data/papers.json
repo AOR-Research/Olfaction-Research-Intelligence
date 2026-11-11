@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "43008733",
+    "title": "Discrete functional regions of the olfactory bulb represent region-specific molecular feature sets.",
+    "abstract": "In the mammalian brain, odors are encoded by combinatorial activation of the glomeruli in the olfactory bulb. The topography of the bulb has been described as tunotopic or chemotopic, such that glomeruli with similar odor tuning or similar chemical property tuning are spatially close. However, several aspects of the bulb topography remain debated, in particular whether there are discrete regions of glomeruli with similar odor tuning, as opposed to a continuous tunotopic mapping, and whether commonly used molecular features have predictive power for the odor responses and are mapped to specific regions. Here, we measured glomerular odor responses in the mouse olfactory bulb by calcium imaging and analyzed the map between (1) the functional space of glomerular odor responses, (2) the two-dimensional bulb surface, and (3) the chemical space of molecular features. We found an organization of the bulb surface into discrete functional regions consisting of glomeruli with similar odor tuning and with functional discontinuities at the region boundaries. The glomeruli within the same functional region also had similar temporal response dynamics, independent of response amplitude. The chemical property tuning of the regions could be described by region-specific molecular feature sets with region-specific predictive power for the odor responses. Our results suggest a fragmented tuno- and chemotopic organization of the bulb, where glomeruli within the same functional region are tuned to similar chemical properties and are temporally synchronized, which is potentially beneficial for local signal processing.",
+    "journal": "Current biology : CB",
+    "publication_date": "2026 Nov 10",
+    "authors": "Strauch M, Brunert D, Böhm E, Wallhorn L, Medinaceli Quintela R et al.",
+    "doi": "10.1016/j.cub.2026.10.036",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008733/",
+    "discovered_at": "2026-11-11T13:20:21.904837+00:00",
+    "discovered_at_display": "11 Nov 2026, 06:50 PM IST"
+  },
+  {
+    "pmid": "43008464",
+    "title": "TBX6-regulated OR51B5 upregulation mediates mitochondrial calcium overload and NLRP3-dependent pyroptosis in imatinib-induced cutaneous adverse reactions.",
+    "abstract": "Imatinib, a first-line targeted therapy for leukemia and gastrointestinal stromal tumor (GIST), frequently induces cutaneous adverse reactions, yet the underlying mechanisms remain unclear. Here, we identified the ectopic olfactory receptor OR51B5 as a potential mediator of imatinib-induced skin toxicity. OR51B5 expression was markedly upregulated in patients experiencing imatinib-associated skin reactions, as well as in imatinib-treated murine skin tissues and HaCaT keratinocytes. Mechanistically, imatinib activated the NLRP3 inflammasome pathway. Knockdown of OR51B5 attenuated calcium overload and inflammasome activation, whereas its overexpression exacerbated these effects. Further studies identified TBX6 as a direct transcriptional regulator of OR51B5. Molecular docking, surface plasmon resonance (SPR), cellular thermal shift assay (CETSA), and ubiquitination analyses demonstrated that imatinib directly interacts with and stabilizes TBX6 by suppressing ubiquitin-mediated degradation, consequently promoting OR51B5 transcription. Upregulation of OR51B5 was associated with cAMP elevation and Ca",
+    "journal": "International immunopharmacology",
+    "publication_date": "2026 Nov 10",
+    "authors": "Ma JC, Liu Y, He W, Du TT, Xu H et al.",
+    "doi": "10.1016/j.intimp.2026.117663",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008464/",
+    "discovered_at": "2026-11-11T13:20:21.904837+00:00",
+    "discovered_at_display": "11 Nov 2026, 06:50 PM IST"
+  },
+  {
     "pmid": "43003497",
     "title": "A Simple and Rapid Cataluminescence Strategy for Highly Selective Detection of Diethyl Ether Based on Metal-Free g-C₃N₄.",
     "abstract": "The development of selective and low-cost sensing strategies for volatile organic compounds (VOCs) is of significant importance for environmental monitoring, workplace safety, and public health. Herein, we report a simple and efficient cataluminescence (CTL) sensor for diethyl ether detection using graphitic carbon nitride (g-C",
