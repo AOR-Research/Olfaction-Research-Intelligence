@@ -1,5 +1,53 @@
 [
   {
+    "pmid": "43023707",
+    "title": "Detection of Barrett's esophagus through exhaled breath using an electronic nose device: a multicenter validation study.",
+    "abstract": "Esophageal adenocarcinoma incidence has risen dramatically in the Western world over the past 30 years, particularly driven by gastroesophageal reflux disease (GERD) and Barrett's esophagus (BE). We aimed to assess whether Volatile Organic Compound (VOC) breath testing can predict BE and to validate its performance in independent cohorts including participants with BE, participants with GERD, and controls. Participants aged ≥18 years referred for gastroscopy between August 2017 and July 2022, were eligible for inclusion. The diagnostic accuracy of VOC breath testing was assessed using four machine learning algorithms (MLAs): (1) random forest, (2) extremely randomized trees, (3) eXtreme Gradient Boosting (XGBoost), and (4) convolutional neural network. Patient tolerability and patient acceptability of breath testing were secondary outcome measures. A total of 1079 participants were included, 602 (55.8%) in the training cohort and 477 (44.2%) in the validation cohort. In the training cohort, XGBoost was the best performing MLA in differentiating BE from GERD and controls (area under the receiver operating characteristic [AUROC] 0.892 [95% CI, 0.862-0.921]). However, in the validation cohort, the performance of XGBoost markedly declined (AUROC 0.530 [95% CI, 0.472-0.589]). Median tolerability score was 2.00 with 0 'no discomfort' and 10 'worst discomfort imaginable', and median acceptability score was 8.00 with 0 'worst experience' and 10 'best experience'. VOC breath testing in its current form does not provide additional diagnostic value for BE screening; however, based on the high degree of patient acceptability, further research on eNose technology seems justified.",
+    "journal": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus",
+    "publication_date": "2026 Nov 02",
+    "authors": "Huibertse LJ, Peters Y, Schrauwen RWM, Tan ACITL, Warringa N et al.",
+    "doi": "10.1093/dote/doag124",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023707/",
+    "discovered_at": "2026-11-13T23:05:44.265223+00:00",
+    "discovered_at_display": "14 Nov 2026, 04:35 AM IST"
+  },
+  {
+    "pmid": "43023034",
+    "title": "Dual-Kinetic Relaxation Spectroscopy for Discrimination of Volatile Organic Mixtures via Finite-Size Surface Gratings.",
+    "abstract": "Discrimination of chemically similar volatile organic compounds (VOCs) in gas mixtures remains a challenge for traditional optical refractive index sensors. In this work, we used a surface holographic grating relaxation technique to monitor the transport kinetics of VOCs. By analyzing the decay of the diffraction efficiency, we extract two independent relaxation time constants. These constants arise from the interplay between the local diffusion of the gas molecules through the material and the geometric aperture losses of the sensing surface (diffusion of molecules in air underneath the grating sensor). These parameters provide a unique kinetic fingerprint for individual species. Mapping these values in a 2D inverse-time state space reveals distinct, nonoverlapping clusters. Furthermore, in the presence of multicomponent gas molecules, by mapping the relaxation lifetimes of pure volatiles and their binary mixtures, we identify a predictable transition in the state space. This approach enables the discrimination between individual volatile compounds and mixtures (e.g., methanol-ethanol) and, in principle, allows their respective concentrations to be quantified and monitored over time with a high degree of sensitivity. This dual-parameter approach uses the finite-size effects of the probe beam, traditionally considered an experimental limitation, to enhance sensor selectivity, offering a robust framework for miniaturizing complex gas-phase analysis.",
+    "journal": "ACS omega",
+    "publication_date": "2026 Nov 10",
+    "authors": "Hassaine N, Moretti L, Castagna R, Bizzaro D, Francescangeli O et al.",
+    "doi": "10.1021/acsomega.6c08719",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023034/",
+    "discovered_at": "2026-11-13T23:05:44.265223+00:00",
+    "discovered_at_display": "14 Nov 2026, 04:35 AM IST"
+  },
+  {
+    "pmid": "43022669",
+    "title": "Individual olfactory channels shape distinct parameters of sleep architecture.",
+    "abstract": "Olfactory dysfunction and anosmia are associated with disruptions in sleep. In",
+    "journal": "iScience",
+    "publication_date": "2026 Nov 20",
+    "authors": "Cook OM, Pursley BT, Pauls G, Roeder S, Aites IA et al.",
+    "doi": "10.1016/j.isci.2026.118001",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43022669/",
+    "discovered_at": "2026-11-13T23:05:44.265223+00:00",
+    "discovered_at_display": "14 Nov 2026, 04:35 AM IST"
+  },
+  {
+    "pmid": "43022144",
+    "title": "Interface engineering of mesoporous SnO",
+    "abstract": "The convergence of embodied intelligence, neuromorphic computing, and the Internet of Things has propelled intelligent gas sensors to the forefront of artificial olfaction, enabling adaptive, context-aware, and biologically inspired odor perception. Tailoring active sites or defects in sensing materials is an efficient strategy to confer selective gas-fingerprint recognition and for amplifying sensor sensitivity. Herein, a facile ligand-mediated interfacial co-assembly strategy was developed to construct mesoporous crystalline SnO",
+    "journal": "National science review",
+    "publication_date": "2026 Oct",
+    "authors": "Zou Y, Deng Y, Xue L, Ma J, Li J et al.",
+    "doi": "10.1093/nsr/nwag584",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43022144/",
+    "discovered_at": "2026-11-13T23:05:44.265223+00:00",
+    "discovered_at_display": "14 Nov 2026, 04:35 AM IST"
+  },
+  {
     "pmid": "43012300",
     "title": "Parental Bonding and the Recognition and Preference for One's Own Child's Body Odour.",
     "abstract": "Previous research has shown that parents can recognise and positively evaluate their infant's odour, but the extent to which these processes relate to individual differences in bonding remains unclear. Addressing this gap, we examined whether parent-reported bonding difficulties are associated with odour recognition accuracy and hedonic evaluation of a child's body odour. A sample of 86 parent-child dyads (children aged 3 months to 3 years) participated in a body odour assessment paradigm. Bonding was measured using the Postpartum Bonding Questionnaire (PBQ). Odour identification involved selecting the child's odour from six samples, including the child's own odour, four odours from other children and a blank sample. Pleasantness was rated for each sample on a visual analogue scale ranging from 0 to 100. Logistic and linear regression analyses were conducted, controlling for parent sex, parent age and child age. Higher PBQ scores, indicating greater parent-reported bonding difficulties, were associated with a higher likelihood of correctly identifying the child's odour, and this effect remained significant after controlling for other covariates. In contrast, bonding difficulties were not associated with the child's body odour pleasantness ratings. These findings suggest that parental olfactory processing comprises at least two partially dissociable components: offspring recognition and hedonic evaluation, which may serve distinct functions in parent-child relationships.",
