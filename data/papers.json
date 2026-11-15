@@ -1,5 +1,53 @@
 [
   {
+    "pmid": "43034741",
+    "title": "Dynamic changes in key aroma compounds during the processing of Dangui (",
+    "abstract": "Dangui (",
+    "journal": "Food chemistry: X",
+    "publication_date": "2026 Dec",
+    "authors": "Lin S, Luo Y, Wang T, Li J, Weng Q et al.",
+    "doi": "10.1016/j.fochx.2026.104757",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43034741/",
+    "discovered_at": "2026-11-15T13:15:12.704060+00:00",
+    "discovered_at_display": "15 Nov 2026, 06:45 PM IST"
+  },
+  {
+    "pmid": "43033694",
+    "title": "Cross-domain transfer learning enables accurate and interpretable classification of mango cultivars by integrating E-nose and GC-MS flavoromics.",
+    "abstract": "This study developed an efficient classification approach for 5 mango cultivars by integrating flavoromics with machine learning (ML) through cross-domain transfer learning. E-nose analysis revealed that, although volatile organic compound (VOC) categories were highly similar across cultivars, their intensities and proportions differed significantly. A total of 76 VOCs were identified by HS-SPME-GC-MS, with terpenes (43.54%-81.75%) and alcohols (5.50%-27.51%) as the dominant groups. To address the limited classification performance of E-nose data caused by multicollinearity, an optimized multi-layer perceptron (MLP) incorporating cross-domain transfer learning was developed, enabling the integration of latent chemical information from GC-MS into E-nose data and improving the mean accuracy from 95.33% to 98.00% accuracy. SHAP and correlation analysis identified top key sensors (S1, S5, S9) and VOC markers ((E)-β-Ocimene, γ-Octanoic lactone and γ-Decalactone). Overall, this study provides a strategy for rapid cultivar identification, supporting variety traceability and quality control in mango industry.",
+    "journal": "Food chemistry",
+    "publication_date": "2026 Nov 05",
+    "authors": "Zou W, Zhang H, Ni Z, Wang M, Jiang Y et al.",
+    "doi": "10.1016/j.foodchem.2026.151931",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43033694/",
+    "discovered_at": "2026-11-15T13:15:12.704060+00:00",
+    "discovered_at_display": "15 Nov 2026, 06:45 PM IST"
+  },
+  {
+    "pmid": "43033692",
+    "title": "Molecular sensory decoding of the distiller's grains-like aroma in ZaoShao baijiu: From its rice husk-like-oily composite character to key odorants.",
+    "abstract": "The distiller's grains-like aroma of ZaoShao Baijiu is characterized by rice husk-like and oily notes, but its odor-active basis remains unclear. This study applied molecular sensory analysis to identify key odorants and explore their olfactory receptor (OR)-binding features. Sensory analysis showed that samples with stronger distiller's grains-like aroma exhibited stronger rice husk-like, grassy, and oily notes. Distillation fractionation yielded Fraction 5 with the strongest target aroma. GC-O/GC-MS revealed 18 odor-active regions corresponding to 22 compounds, and OAV-based screening identified 10 potential contributors. Reconstitution and omission experiments confirmed six key contributors: 2-nonanol, trans-2-nonenal, and geosmin were associated with grassy, rice husk-like, and musty notes, respectively, whereas nonanal, 1-decanol, and trans,trans-2,4-nonadienal were associated with oily notes. Molecular docking suggested potential interactions between these key odorants and selected ORs, mainly involving hydrophobic interactions and hydrogen bonds, with OR1A1 showing the strongest average affinity. These findings support targeted evaluation and regulation of this aroma.",
+    "journal": "Food chemistry",
+    "publication_date": "2026 Nov 06",
+    "authors": "Zhou Z, He G, Wang H, Cao X, Ren H et al.",
+    "doi": "10.1016/j.foodchem.2026.152010",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43033692/",
+    "discovered_at": "2026-11-15T13:15:12.704060+00:00",
+    "discovered_at_display": "15 Nov 2026, 06:45 PM IST"
+  },
+  {
+    "pmid": "43032468",
+    "title": "Processing methods shape the volatile organic compounds and flavor profile of",
+    "abstract": "",
+    "journal": "Food chemistry: X",
+    "publication_date": "2026 Dec",
+    "authors": "Huang J, Liu Y, Dai Y, Liu Y, Ai W et al.",
+    "doi": "10.1016/j.indcrop.2023.116295",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43032468/",
+    "discovered_at": "2026-11-15T13:15:12.704060+00:00",
+    "discovered_at_display": "15 Nov 2026, 06:45 PM IST"
+  },
+  {
     "pmid": "43031077",
     "title": "Intelligent Recognition of Sulfur-Containing VOCs Using a Au/Pd-Modified RGO-SnO",
     "abstract": "To address the challenge of accurately distinguishing structurally similar sulfur-containing volatile organic compounds (VOCs) using a single gas sensor because of their similar response characteristics, this study developed a gas sensor array based on Au/Pd-modified rGO/SnO",
