@@ -1,5 +1,65 @@
 [
   {
+    "pmid": "43043877",
+    "title": "Micro-LED-Activated Formaldehyde Sensing via Au Loading-Regulated Interfacial Engineering in Anatase TiO2 Nanofibers.",
+    "abstract": "Photoactivated metal-oxide gas sensors reduce the energy demand associated with continuous heating, yet selective detection of volatile organic compounds remains constrained by weak electrical transduction and complex surface oxidation pathways. Here, Au-functionalized anatase TiO2 nanofibers (Au/aTiO2 NFs) were integrated with a 395 nm microlight-emitting diode (LED) for low-power formaldehyde (HCHO) sensing. One-pot electrospinning followed by calcination enabled systematic control of Au loading while preserving the anatase nanofiber architecture. Au loading regulated TiO2 crystallite growth, defect states, dispersion, interfacial Au chemical states, and photoexcited carrier relaxation. At 0.15 wt % Au, finely dispersed Au nanoparticles produced a distinct Au/TiO2 interfacial environment and carrier-relaxation behavior, whereas higher loadings induced nanoparticle aggregation and additional nonradiative energy-loss pathways. Under UV micro-LED illumination at 2.63 mW, the optimized sensor exhibited a response of 1093 toward 1 ppm of HCHO, an estimated detection limit of 4.9 ppb, and stable operation over 40 consecutive cycles. Density functional theory calculations further supported the loading-dependent selectivity, showing that changes in the local Au environment selectively modify HCHO adsorption and bond reconstruction. These results identify local Au-site density as a key design parameter governing interfacial reactivity and molecular selectivity in low-power photoactivated gas sensing.",
+    "journal": "ACS nano",
+    "publication_date": "2026 Nov 12",
+    "authors": "Shin E, Lee K, Lim Y, Kim M, Kwak D et al.",
+    "doi": "10.1021/acsnano.6c16286",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43043877/",
+    "discovered_at": "2026-11-18T00:19:10.354042+00:00",
+    "discovered_at_display": "18 Nov 2026, 05:49 AM IST"
+  },
+  {
+    "pmid": "43043356",
+    "title": "A Narrowly Tuned Olfactory Receptor in the Sunda Pangolin Identifies 1-Octen-3-One as a Key Chemical Cue in Foraging Behavior.",
+    "abstract": "The Sunda pangolin (Manis javanica) is considered a critically endangered species, partly due to its highly specialized diet, which consists mostly of ants and termites. Field observations have shown that pangolins rely on olfaction to locate ant and termite nests even from distances of several kilometers. However, the specific chemical signal used to locate food in the field remains unknown. Based on transcriptome sequencing, 1033 olfactory receptors (MjavORs) of M. javanica were identified and analyzed. Four MjavORs (OR118, OR171, OR215, and OR276) were functionally characterized using the Xenopus laevis oocyte system co-expressing CFTR, RTP1, and Gαolf. Notably, MjavOR215 showed a robust response to 1-octen-3-one, a compound released from termite nests. An odorant-binding protein, MjavOBP3, also demonstrated the highest binding affinity for 1-octen-3-one. Behavioral tracking assays confirmed that pangolins are significantly attracted to 1-octen-3-one, a volatile emitted from termite nests (p < 0.05), rather than to volatiles from termites themselves. These results clarify the molecular mechanisms underlying pangolin foraging, demonstrating that volatile from termite nests guide this behavior.",
+    "journal": "Integrative zoology",
+    "publication_date": "2026 Nov 17",
+    "authors": "Yu Z, Meng T, Que T, He M, Wang H et al.",
+    "doi": "10.1111/1749-4877.70232",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43043356/",
+    "discovered_at": "2026-11-18T00:19:10.354042+00:00",
+    "discovered_at_display": "18 Nov 2026, 05:49 AM IST"
+  },
+  {
+    "pmid": "43043173",
+    "title": "Prognostic value of OR51T1 expression in men with metastatic hormone-sensitive prostate cancer.",
+    "abstract": "Background The olfactory receptor genes (ORs), the largest superfamily in the human genome, are expressed not only in the neurons of the olfactory epithelium but also in various other tissues. We here investigated OR51T1 expression as a potential biomarker for predicting survival among men treated with androgen deprivation therapy (ADT) for metastatic hormone-sensitive prostate cancer (mHSPC). Methods Sixty-nine men with mHSPC to the bone diagnosed from 2006 to 2015 were enrolled in this retrospective study. All patients had received ADT as first-line treatment. Prostate needle biopsy specimens obtained before the treatment were immunohistochemically stained for OR51T1. Correlations between OR51T1 expression and clinicopathological factors were analyzed using a Cox proportional hazard model. We also examined the expression of OR51T1 in prostate cancer cells and also evaluated the efficacy of suppressing OR51T1 for prostate cancer proliferation. Results Of 69 cases, 43 (62.3%) and 26 (37.7%) showed low and high OR51T1 expression, respectively. Patients with high OR51T1 tumor had a significantly shorter time to castration-resistant prostate cancer (CRPC) development than those with low expression. Multivariate analysis showed that the extent of disease on bone scan (EOD) (3-4 vs. 1-2: HR = 3.1, 95% CI = 1.6-6.2, p=0.001) and OR51T1 expression (high vs. low: HR = 2.3, 95% CI = 1.2-4.4, p=0.014) were independent predictors for CRPC. Patients with high OR51T1 tumor also had a significantly shorter overall survival (OS) than those with low expression. T stage (4 vs ≤3: HR = 3.6, 95% CI = 1.1-11.2, p=0.029), N stage (1 vs 0: HR = 3.0, 95% CI = 1.3-7.1, p=0.010), EOD (3-4 vs. 1-2: HR = 3.7, 95% CI = 1.6-8.5, p=0.003), and OR51T1 expression (high vs. low: HR = 2.2, 95% CI = 1.0-4.8, p=0.038) were independent prognosticators for OS. The OR51T1 expression was high in the prostate cancer cell line PC3. Furthermore, suppressing OR51T1 inhibited cell proliferation in the MTT assay. Conclusions OR51T1 expression is a potential prognostic biomarker for time to CRPC and OS in men undergoing ADT for mHSPC. In OR51T1-expressing prostate cancer cell lines, suppression of OR51T1 inhibited tumor proliferation.",
+    "journal": "Urologia internationalis",
+    "publication_date": "2026 Nov 17",
+    "authors": "Mochizuki T, Kawahara T, Ishiguro Y, Ohtaka M, Uemura K et al.",
+    "doi": "10.1159/uin/aewag057",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43043173/",
+    "discovered_at": "2026-11-18T00:19:10.354042+00:00",
+    "discovered_at_display": "18 Nov 2026, 05:49 AM IST"
+  },
+  {
+    "pmid": "43041872",
+    "title": "Coordinated changes in volatile and non-volatile metabolites reveal postharvest flavour divergence between two peach cultivars with contrasting flesh textures.",
+    "abstract": "Postharvest flavour evolution in peach fruit depends on coordinated changes in volatile and non-volatile metabolites, but these processes remain unclear in cultivars with contrasting flesh textures. Here, the melting flesh cultivar 'Hujingmilu' ('HJ') and the stony hard cultivar 'Xiacui' ('XC') were stored at 12 °C for 21 d.",
+    "journal": "Food chemistry: X",
+    "publication_date": "2026 Dec",
+    "authors": "Zhou H, Huang L, Ye Z, Yu M, Su M et al.",
+    "doi": "10.1016/j.postharvbio.2026.114285",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43041872/",
+    "discovered_at": "2026-11-18T00:19:10.354042+00:00",
+    "discovered_at_display": "18 Nov 2026, 05:49 AM IST"
+  },
+  {
+    "pmid": "43041698",
+    "title": "Study on Changes in Apparent Properties and Key \"Burnt-Aroma\" Components During the Processing of Charred Atractylodes Macrcephala Based on Multi-Dimensional Characterization.",
+    "abstract": "Charred",
+    "journal": "Food science & nutrition",
+    "publication_date": "2026 Nov",
+    "authors": "Nui H, Wei R, Lu T, Dong Y, Liu J et al.",
+    "doi": "10.1016/j.lwt.2026.119104",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43041698/",
+    "discovered_at": "2026-11-18T00:19:10.354042+00:00",
+    "discovered_at_display": "18 Nov 2026, 05:49 AM IST"
+  },
+  {
     "pmid": "43034741",
     "title": "Dynamic changes in key aroma compounds during the processing of Dangui (",
     "abstract": "Dangui (",
