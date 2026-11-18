@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "43050621",
+    "title": "Stage-resolved PM",
+    "abstract": "Ski waxing can generate airborne particulate matter (PM) and volatile organic compounds (VOCs), yet stage-specific and time-resolved data for modern wax products remain limited. This two-phase pilot study combined an exploratory survey of ski industry workers with a field-simulated assessment of PM and VOC concentrations during ski waxing and tuning. Among 50 survey respondents, 69.2% of those with known wax type reported current use of fluorocarbon-containing wax, and only 8% reported access to an effective dedicated exhaust system. A low-cost optical PM sensor and a PID were used to measure PM",
+    "journal": "Journal of occupational and environmental hygiene",
+    "publication_date": "2026 Nov 18",
+    "authors": "Fang R, Sleeth D",
+    "doi": "10.1080/15459624.2026.2737099",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43050621/",
+    "discovered_at": "2026-11-18T23:44:58.278675+00:00",
+    "discovered_at_display": "19 Nov 2026, 05:14 AM IST"
+  },
+  {
+    "pmid": "43050376",
+    "title": "Recent Progress of Machine Learning Technology in Gas Sensing and Detection.",
+    "abstract": "Although gas sensing technologies are widely applied in environmental monitoring, industrial safety, and food testing, their applications remain constrained by several challenges, including cross-sensitivity, long-term drift, environmental interference, and slow response. Machine learning (ML) provides new opportunities for intelligent gas sensing by extracting useful patterns from complex sensing signals and improving gas recognition and quantitative analysis. Adopting a problem-oriented perspective, this review examines recent progress of machine learning technology in gas sensing and detection. First, ML methods used in gas sensing are introduced according to learning paradigms and sensing tasks. The applications of these methods in solving key gas-sensing problems are then discussed. Specifically, extracting multichannel and dynamic response features improves gas discrimination; domain adaptation and active learning can compensate for gas drift, whereas including temperature and humidity signals can reduce environmental interference; early-response analysis enables faster gas detection without waiting for steady-state responses. This review further discusses the challenges that limit the practical deployment of ML-based gas sensing systems. Potential solutions, transferable from intelligent sensing applications in other fields, are introduced to solve data scarcity, edge deployment difficulty, and poor interpretability problems, such as data-efficient learning, lightweight model design, and interpretable modeling. Finally, future perspectives such as biomimetic olfactory systems, embodied intelligence for gas source tracking, and AI-assisted analysis of new gas sensing materials are discussed. This review provides an overview of the recent progress of machine learning technology in gas sensing, highlighting future opportunities for developing reliable and automatic gas detection systems.",
+    "journal": "ACS sensors",
+    "publication_date": "2026 Nov 18",
+    "authors": "Pan Y, Chen R, Bao F",
+    "doi": "10.1021/acssensors.6c04441",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43050376/",
+    "discovered_at": "2026-11-18T23:44:58.278675+00:00",
+    "discovered_at_display": "19 Nov 2026, 05:14 AM IST"
+  },
+  {
     "pmid": "43045751",
     "title": "Fever-induced OR560 promotes antibacterial immunity through macrophage pseudopod formation and phagocytosis.",
     "abstract": "Fever is a conserved physiological response to pathogen infection. However, how fever promotes host defense remains poorly understood. Here we find that fever empowers antibacterial immunity by inducing olfactory receptor 560 (OR560) to promote macrophage phagocytosis. Through a genome-wide CRISPR screen, we discovered that OR560 is indispensable for macrophage phagocytosis. Febrile temperature drives the serum response factor-dependent OR560 induction in macrophages to boost phagocytosis. OR560 responds to bacteria-derived peptides and plays an essential role in mediating pseudopod formation-a key step required for target uptake. Modulation of body temperature in mice showed that the immune-amplifying effect of fever depends predominantly on OR560. We further demonstrated that the genetic ablation of either Olfr560 or serum response factor (Srf) in mice not only abolished fever-potentiated macrophage phagocytosis but also led to catastrophic defects in bacterial clearance and increased mortality upon infections. Thus, our work reveals that OR560 is a pivotal regulator of fever-enhanced antibacterial phagocytosis and integrates both pathogen-derived and febrile signals to ensure a robust response to infection.",
