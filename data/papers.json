@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "43051799",
+    "title": "Deciphering the key drivers of enhanced floral aroma and reduced bitterness in jasmine tea during multi-round scenting through integrated multi-omics, electronic sensory, and molecular docking analyses.",
+    "abstract": "The progressive enhancement of floral aroma and reduction of bitterness are characteristic quality changes during the multi-round scenting of jasmine tea; however, the underlying chemical and sensory changes remain incompletely understood. In this study, integrated metabolomics, sensory evaluation, electronic sensory analysis, and molecular docking analyses were employed to characterize flavor evolution during jasmine tea scenting. Sensory evaluation revealed gradual changes in aroma and taste characteristics during multi-round scenting, particularly the enhancement of floral aroma and jasmine-like flavor notes. Electronic nose and electronic tongue analyses further demonstrated distinct variations in aroma and taste response profiles among different scenting stages. GC-MS analysis showed a continuous increase in floral aroma-related volatile compounds. Key aroma contributors included linalool, benzyl acetate, methyl salicylate, indole, cis-3-hexenyl acetate, α-farnesene, and cis-3-hexenyl benzoate. UPLC-QQQ-MS analysis indicated significant decreases in bitterness-related amino acids and flavonoids, while umami- and sweetness-associated amino acids increased after scenting. Molecular docking further predicted potential interactions of representative aroma compounds with human olfactory receptors OR1A1, OR2W1, and OR8D1 through hydrogen bonding and hydrophobic interactions, whereas apigenin, quercetin, and myricetin exhibited relatively strong predicted binding affinities toward the bitter taste receptor TAS2R14. These findings provide molecular-level evidence for the enhancement of floral aroma and reduction of bitterness during jasmine tea scenting and offer new insights into the flavor formation mechanisms of jasmine tea.",
+    "journal": "Food research international (Ottawa, Ont.)",
+    "publication_date": "2026 Dec 31",
+    "authors": "Wang J, Fu S, Liu S, Rao G, Lu J et al.",
+    "doi": "10.1016/j.foodres.2026.121113",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43051799/",
+    "discovered_at": "2026-11-19T05:21:13.367714+00:00",
+    "discovered_at_display": "19 Nov 2026, 10:51 AM IST"
+  },
+  {
     "pmid": "43050621",
     "title": "Stage-resolved PM",
     "abstract": "Ski waxing can generate airborne particulate matter (PM) and volatile organic compounds (VOCs), yet stage-specific and time-resolved data for modern wax products remain limited. This two-phase pilot study combined an exploratory survey of ski industry workers with a field-simulated assessment of PM and VOC concentrations during ski waxing and tuning. Among 50 survey respondents, 69.2% of those with known wax type reported current use of fluorocarbon-containing wax, and only 8% reported access to an effective dedicated exhaust system. A low-cost optical PM sensor and a PID were used to measure PM",
