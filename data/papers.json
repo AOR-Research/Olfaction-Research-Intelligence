@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "43065711",
+    "title": "Characterization of flavor profiles and screening of candidate aroma contributors in Gardeniae Fructus oil during processing with GC-IMS coupled with E-nose and multivariate analysis.",
+    "abstract": "Gardeniae Fructus oil is a natural and healthy oil widely used in various fields, including food, daily chemicals, and medicine. This study combined electronic nose (E-nose) and gas chromatography-ion mobility spectrometry (GC-IMS) technology to comprehensively analyze dynamic changes in the volatile organic components (VOCs) of Gardeniae Fructus oil at different processing levels. Relative odor activity values (ROAVs) were also used for preliminary screening of candidate aroma contributors. E-nose tentatively characterized 23 VOCs by RI, with peak areas differing across groups. The volatile oil extracted from Gardeniae Fructus was tentatively associated with mellow and sweet attributes, that from Gardeniae Fructus Tostum with complex nut notes, and that from Gardeniae Fructus Praeparatus with relatively tentative nutty, chocolate, cocoa, and malty attributes. GC-IMS tentatively identified a total of 67 VOCs, with alcohols dominating in Gardeniae Fructus (ZZ-01), esters and terpenes in Gardeniae Fructus Tostum (ZZ-02), and Maillard characteristic degradation aldehydes in Gardeniae Fructus Praeparatus (ZZ-03). This trend is broadly consistent with the results of E-nose detection. Compounds with ROAV ≥ 1 in at least one group were preliminarily screened as candidate aroma contributors, including guaiacol, ethyl cyclohexanoate, homosotolone, methylnonanedione, β-damascenone, methyl dodecanoate, ethyl acetate, hexanal, pentanal, propanal, 2-methylpropanal,3-methylbutanal, and 2-methylbutanal as candidate aroma contributors. These results provide a compositional basis for understanding the differential distribution of volatile aroma compounds in Gardeniae Fructus oil, and identify the potential contributors to the aroma profiles of the different sample groups. Because no sensory analysis was performed, these aroma descriptions are tentative.",
+    "journal": "Frontiers in nutrition",
+    "publication_date": "2026",
+    "authors": "Liu Y, Xue J, Dai Y, Liu Y, Huang J et al.",
+    "doi": "10.3389/fnut.2026.2012136",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43065711/",
+    "discovered_at": "2026-11-22T13:51:59.298004+00:00",
+    "discovered_at_display": "22 Nov 2026, 07:21 PM IST"
+  },
+  {
     "pmid": "43063706",
     "title": "PPB-level nonanal gas sensing using a nanosheet-structured tin oxide thin film.",
     "abstract": "Nonanal is an important volatile organic compound (VOC) that has attracted considerable attention as a potential biomarker for human health monitoring. Therefore, the development of highly sensitive semiconductor gas sensors capable of detecting low concentrations of nonanal is of significant importance. In this study, a nanosheet-structured tin oxide thin film was directly synthesized on a sensor substrate through a simple aqueous process and applied to nonanal gas sensing. Structural characterization by FE-SEM, TEM, and XRD revealed that the deposited tin oxide initially nucleated on the substrate surface and subsequently developed into well-defined nanosheets. After 6 h of synthesis, the nanosheets exhibited lateral dimensions of approximately 100 nm while maintaining a thickness of approximately 5 nm, with the broad surface predominantly exposing the metastable SnO",
