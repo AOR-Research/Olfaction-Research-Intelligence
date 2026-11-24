@@ -1,5 +1,17 @@
 [
   {
+    "pmid": "43074877",
+    "title": "Effects of egg source and extraction method on physicochemical properties, volatile profiles, and",
+    "abstract": "Egg yolk is rich in lipids, phospholipids and other fat-soluble compounds, which are generally considered to contribute to its nutritional and technological value and have supported its use in flavor bases and functional-food formulations. However, the quality and flavor development of egg yolk oil (EYO) depend on egg source and preparation method. Here, egg yolk oils from conventional chicken eggs and Taihe Black-Bone Silk Fowl eggs were prepared by traditional thermal extraction or ethanol extraction. Physical properties, volatile compounds, and",
+    "journal": "Frontiers in nutrition",
+    "publication_date": "2026",
+    "authors": "Cao Y, Guo F, Li M, Li K, Kuang S et al.",
+    "doi": "10.3389/fnut.2026.1999179",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43074877/",
+    "discovered_at": "2026-11-24T16:47:30.458793+00:00",
+    "discovered_at_display": "24 Nov 2026, 10:17 PM IST"
+  },
+  {
     "pmid": "43068445",
     "title": "Hybrid Explainable Artificial Intelligence Framework for Sensor-Based Detection of Metritis-Causing Bacteria Using Volatile Organic Compounds Sensor Signals.",
     "abstract": "Sensor-based bacterial detection may offer future practical value for the management of metritis. The aim of this study is to classify seven bacterial targets frequently detected in the uterus: Fusobacterium necrophorum (F. necrophorum), Trueperella pyogenes (T. pyogenes), Escherichia coli (E. coli), Staphylococcus aureus (S. aureus), Coagulase-Negative Staphylococci (CNS), Bacillus spp. and Clostridium spp. This study's original contribution is its development of a hybrid explainable artificial intelligence (XAI) framework for sensor-based classification of seven bacterial targets using bacterium-specific binary models under the present study conditions, combined with post hoc XAI and rule-based explanation methods. Methodologically, we systematically addressed class imbalance and multicollinearity and conducted comprehensive comparisons among tree-based methods. Global insights obtained from Shapley Additive exPlanations (SHAP), partial dependence plot (PDP) and accumulated local effects (ALE) were converted into rules applicable to experts. The reliability of the underlying XAI explanations was quantitatively assessed using fidelity and faithfulness metrics before the selected contribution profiles were summarized in user-readable attribution-based statements. Accordingly, the XAI analyses identified O The proposed approach combines predictive discrimination with transparent, interpretable explanations and provides a proof-of-concept framework for sensor-based bacterial classification that warrants further clinical and field validation.",
