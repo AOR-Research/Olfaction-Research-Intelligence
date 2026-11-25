@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "43082502",
+    "title": "A Flexible Chemiresistive Sensor Combining Halogen Bonding and Swelling-Mediated Permeation for Field Detection of Plant Stress VOCs.",
+    "abstract": "Volatile organic compounds (VOCs) act as vital early indicators of biotic or abiotic stress in plants, and their accurate, timely detection is significant for early crop health warning. To address the need for field-deployable sensors with high selectivity, operational stability, and practical usability, we developed a resistive VOC sensor with a sensing layer of 4-fluorothiophenol (FTP)-functionalized silver nanowires embedded in a poly(vinyl alcohol)/poly(3,4-ethylenedioxythiophene)-poly(styrenesulfonate) matrix. Reversible halogen bonding between FTP ligands and aldehyde/ketone groups enables analytes to induce swelling of the PVA matrix, producing significant signal amplification by altering resistance, while aldehydes and ketones are differentiated by polarity and steric hindrance, with optimal responsiveness to aldehydes. The sensor achieves a linear response to aldehydes over 25-200 ppm (R",
+    "journal": "Biosensors",
+    "publication_date": "2026 Oct 26",
+    "authors": "Bai Y, Gan W, Chen F, Liao Z, Wu Y et al.",
+    "doi": "10.3390/bios16110607",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43082502/",
+    "discovered_at": "2026-11-25T16:35:42.868016+00:00",
+    "discovered_at_display": "25 Nov 2026, 10:05 PM IST"
+  },
+  {
+    "pmid": "43077866",
+    "title": "Olfactory Receptor 2 Deficiency Improves Macrophage Phagocytosis and Post Myocardial Infarction Remodeling in Male Mice.",
+    "abstract": "Cardiac macrophages exhibit increased Olfr2 expression on day 3 and day 7 after ischemia reperfusion-induced acute myocardial infarction (AMI). Olfr2",
+    "journal": "JACC. Basic to translational science",
+    "publication_date": "2026 Nov 24",
+    "authors": "Wagner E, Geissen S, Martinez-Lagunas K, Wrobel J, Park Y et al.",
+    "doi": "10.1016/j.jacbts.2026.101688",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43077866/",
+    "discovered_at": "2026-11-25T16:35:42.868016+00:00",
+    "discovered_at_display": "25 Nov 2026, 10:05 PM IST"
+  },
+  {
     "pmid": "43077492",
     "title": "A herbivore-induced plant volatile facilitates group foraging in locusts.",
     "abstract": "Plants have evolved sophisticated defense strategies against herbivory, often releasing volatile compounds upon attack to deter further feeding. Here, we demonstrate the induced volatile S-linalool promotes phase- and stage-specific group foraging in the migratory locust (",
