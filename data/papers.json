@@ -1,5 +1,41 @@
 [
   {
+    "pmid": "43102765",
+    "title": "An exploratory assessment of BTEX and formaldehyde pollution in the Rouiba-Reghaia Industrial Zone, Algeria: sources, spatial distribution, and health implications.",
+    "abstract": "Volatile organic compounds (VOCs), especially BTEX (benzene, toluene, ethylbenzene, and xylenes) and formaldehyde (HCHO), are key atmospheric pollutants in urban-industrial environments. This exploratory study characterized ambient BTEX and HCHO baseline levels in the Rouiba-Reghaia industrial zone (Algiers, Algeria) through two single-day snapshot campaigns in 2020: passive ATD-GC/MS sampling at 10 industrial and traffic sites (5-7 h exposure, 8 March 2020) and real-time monitoring with a portable multi-gas sensor at 37 sector-representative sites (23 June 2020). Traffic-dominated locations showed clear BTEX enrichment, with total BTEX up to 8.57 µg m",
+    "journal": "Environmental science and pollution research international",
+    "publication_date": "2026 Nov 27",
+    "authors": "Hadjsadok Z, Kerchiche Y, Hadidi N, Belmouhoub N, Saib C",
+    "doi": "10.24200/amecj.v8.i01.1028",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43102765/",
+    "discovered_at": "2026-11-28T00:55:41.179678+00:00",
+    "discovered_at_display": "28 Nov 2026, 06:25 AM IST"
+  },
+  {
+    "pmid": "43100791",
+    "title": "Bio-CM²: Distributed computational optics for cortex-wide cellular imaging.",
+    "abstract": "Understanding distributed biological systems, particularly neural circuits, requires simultaneous cellular-resolution imaging across millimeter-scale fields of view (FOV). Existing miniature microscopes remain fundamentally constrained by trade-offs among FOV, spatial resolution, and optical complexity, limiting their ability to bridge cellular microscopy with cortex-scale imaging. Here we introduce distributed computational optics, a framework that distributes image formation across coordinated optical modules and computationally integrates their measurements into a unified image. We realize this framework in Bio-CM², a computational miniature mesoscope that partitions the imaging field across four optical modules while converging their measurements onto a common image sensor. This architecture overcomes the aberration-scaling limitations of conventional miniature optics while avoiding the hardware complexity of multi-camera systems and the contrast degradation associated with optical multiplexing. Bio-CM² achieves a 7.5 × 10 mm² FOV while enabling cellular-resolution",
+    "journal": "Research square",
+    "publication_date": "2026 Nov 19",
+    "authors": "Tian L, Hu G, Deng Q, Qi T, Chen Z et al.",
+    "doi": "10.21203/rs.3.rs-10907597/v1",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43100791/",
+    "discovered_at": "2026-11-28T00:55:41.179678+00:00",
+    "discovered_at_display": "28 Nov 2026, 06:25 AM IST"
+  },
+  {
+    "pmid": "43100606",
+    "title": "Diffusion tractography of the olfactory pathway and odor recognition.",
+    "abstract": "Olfactory processing constitutes a unique system where sensory input is directly linked to integrative perceptual processing, providing an optimal model for investigating how perceptual input is transformed into higher-order functions. However, the neural substrates of olfaction remain incompletely understood. Here, we delineated central olfactory pathways using advanced tractography and examined associations between tractography metrics and olfactory functions. We acquired T1-weighted and diffusion-weighted images from 129 healthy participants and assessed olfactory function in 59 individuals using a T&T olfactometer. We defined the primary olfactory cortex and secondary olfactory structures and their connections. White matter query language was used to extract central olfactory pathways from refined whole-brain tractography according to neuroanatomical rules. We analyzed the number of streamlines and the laterality index of these pathways in relation to olfactory detection and recognition thresholds. For the total olfactory fascicle, more streamlines were observed in the left than the right hemisphere, and greater leftward lateralization was significantly associated with lower mean recognition thresholds. In conclusion, we successfully reconstructed central olfactory pathways beyond the primary olfactory cortex and provided evidence supporting the neural basis of higher-order olfactory functions. Leftward lateralization may enhance associative olfactory processing by reducing circuit redundancy and allocating additional neural capacity.",
+    "journal": "Research square",
+    "publication_date": "2026 Nov 19",
+    "authors": "Sasabayashi D, Rathi Y, Legarreta JH, Kitajima K, Iaali H et al.",
+    "doi": "10.21203/rs.3.rs-11481263/v1",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43100606/",
+    "discovered_at": "2026-11-28T00:55:41.179678+00:00",
+    "discovered_at_display": "28 Nov 2026, 06:25 AM IST"
+  },
+  {
     "pmid": "43098029",
     "title": "Rapid sensing of black tea fermentation aroma quality using multidimensional olfactory information.",
     "abstract": "Developing non-destructive techniques to evaluate aromas during black tea fermentation remains challenging. In this study we present an approach to this problem that integrates colorimetric sensor arrays (CSA) with hyperspectral imaging (HSI). First, fermented samples (0-6 h) and CSA were prepared, and HSI data was acquired from the reactions. Six key volatile organic compounds (VOCs) responsible for the aroma characteristics of fermenting black tea were screened. Partial least squares regression (PLSR) models were then constructed based on hyperspectral information and a data fusion strategy to quantitatively predict these key VOCs. The prediction results revealed that mid-level fusion resulted in superior performance: there were five VOCs with residual predictive deviation (RPD) > 3, six with Rp (correlation coefficient) > 0.947, and β-ionone showed a high RPD of 3.582. This strategy provides a new avenue for digital control in black tea manufacturing.",
